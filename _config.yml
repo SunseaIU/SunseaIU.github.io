@@ -38,23 +38,23 @@ menu:
     icon: ""
 
   - text: Awards and Honors
-    link: /blog
+    link: /awards
     icon: ""
     
   - text: Publication
-    link: /blog
+    link: /publication
     icon: ""
 
   - text: Patent
-    link: /blog
+    link: /patent
     icon: ""
 
   - text: Student
-    link: /blog
+    link: /student
     icon: ""    
 
   - text: Academic Services
-    link: /blog
+    link: /academic-services
     icon: ""
 
 
