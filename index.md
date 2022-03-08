@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# MY PROFILE
-
 <table border="0">
   <tr>
     <td width="75%">
