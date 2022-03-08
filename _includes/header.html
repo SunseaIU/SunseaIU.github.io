@@ -5,9 +5,9 @@
   
   <div class="pan-layout-header__content">
     <div class="pan-layout-header__avatar">
-      <span>{{ site.title }}</span>
+      <span>{{ site.title | default: site.github.owner_name }}</span>
       
-      <a href="{{ '/' | relative_url }}">
+      <a href="{{ '/' }}">
         {% if site.github.owner_gravatar_url %}
         <img src="{{ site.avatar | default: site.github.owner_gravatar_url }}" alt="{{ site.title | default: site.github.owner_name }}">
         {% else %}
