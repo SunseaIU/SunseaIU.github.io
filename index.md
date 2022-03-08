@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 <table border="0">
