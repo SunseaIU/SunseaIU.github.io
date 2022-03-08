@@ -1,6 +1,7 @@
---
---
-# Publication
+---
+---
+
+# Publications
 
 #### 2022
 [1]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. Neural Computing & Applications, accepted, 2022.(SCI二区)  
