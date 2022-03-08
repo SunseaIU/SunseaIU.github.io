@@ -4,12 +4,32 @@ layout: default
 
 # MY PROFILE
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam dignissim diam quis enim. Tincidunt arcu non sodales neque. Pharetra pharetra massa massa ultricies. Massa vitae tortor condimentum lacinia quis vel eros. Lectus vestibulum mattis ullamcorper velit. Mauris cursus mattis molestie a iaculis. Faucibus interdum posuere lorem ipsum. Tristique risus nec feugiat in fermentum posuere. Egestas integer eget aliquet nibh praesent tristique magna sit. Diam donec adipiscing tristique risus nec feugiat in fermentum. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Id porta nibh venenatis cras sed felis. Erat pellentesque adipiscing commodo elit at imperdiet dui. A arcu cursus vitae congue mauris. Vitae justo eget magna fermentum iaculis eu non diam. Faucibus nisl tincidunt eget nullam non nisi est sit.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>彭勇（Peng Yong）</h1>
+      <p><b>教授</b></p>
+      <p><b>杭州电子科技大学计算机学院</b></p>
+      <p><b>邮箱：yongpeng@hdu.edu.cn</b></p>
+      <p><b>通信地址：浙江省杭州市钱塘新区2号大街1158号杭电1教南515</b></p>
+    </td>
+    <td width="25%">
+      <img src="/assets/images/zhengjianzhao.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
 
-Risus nullam eget felis eget. Id faucibus nisl tincidunt eget nullam non nisi. Nam libero justo laoreet sit. Et pharetra pharetra massa massa ultricies mi. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Scelerisque eu ultrices vitae auctor. Consequat interdum varius sit amet mattis vulputate enim. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Eget dolor morbi non arcu risus quis varius. Quis viverra nibh cras pulvinar. Ac ut consequat semper viverra nam libero justo. Faucibus et molestie ac feugiat sed lectus vestibulum. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Blandit turpis cursus in hac. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Elementum nibh tellus molestie nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Integer quis auctor elit sed vulputate mi sit amet mauris. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Non pulvinar neque laoreet suspendisse.
+### 工作经历
+01/2022—至今     杭州电子科技大学计算机学院   教授  
+01/2016—12/2021  杭州电子科技大学计算机学院   副研究员/副教授  
+06/2015—12/2015  杭州电子科技大学计算机学院 讲师   
 
-Massa massa ultricies mi quis hendrerit dolor magna eget. Eget est lorem ipsum dolor sit amet. Sit amet volutpat consequat mauris nunc. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Sed risus ultricies tristique nulla aliquet enim tortor. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Id aliquet risus feugiat in. Massa sapien faucibus et molestie ac feugiat sed. Pretium aenean pharetra magna ac placerat vestibulum lectus. Nibh praesent tristique magna sit amet purus gravida quis blandit. Fames ac turpis egestas sed tempus urna. Tortor consequat id porta nibh venenatis cras sed felis. Aenean et tortor at risus viverra adipiscing at in. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Ac turpis egestas maecenas pharetra convallis. Mi quis hendrerit dolor magna eget est lorem ipsum dolor. Amet venenatis urna cursus eget nunc. Elit ut aliquam purus sit amet luctus venenatis. Amet dictum sit amet justo donec enim diam vulputate ut.
+### 教育经历
+09/2010—06/2015  上海交通大学计算机科学与工程系  博士    
+09/2012—08/2014  美国密西根大学安娜堡分校电气工程与计算机科学系 访学  
+09/2007—07/2010  中国科学院研究生院  硕士    
+09/2002—07/2006  中国人民解放军炮兵学院  本科  
 
-Gravida neque convallis a cras. Nisi porta lorem mollis aliquam ut. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Euismod elementum nisi quis eleifend. Vel fringilla est ullamcorper eget nulla facilisi etiam. Urna neque viverra justo nec ultrices dui. Morbi blandit cursus risus at ultrices mi tempus. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Sed risus ultricies tristique nulla aliquet enim tortor at auctor. Sit amet porttitor eget dolor morbi non arcu risus quis. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a.
-
-Vel pharetra vel turpis nunc eget lorem. Nunc sed blandit libero volutpat sed cras ornare. Cursus risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Euismod nisi porta lorem mollis aliquam ut. Magna ac placerat vestibulum lectus. Semper risus in hendrerit gravida rutrum quisque non. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Neque vitae tempus quam pellentesque nec. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. At auctor urna nunc id cursus metus aliquam eleifend mi. Amet consectetur adipiscing elit pellentesque. Eget egestas purus viverra accumsan. Quis auctor elit sed vulputate mi sit amet. Placerat duis ultricies lacus sed.
+### 研究方向
+人工智能理论（机器学习、模式识别算法）与应用（脑机交互系统）研究  
+我的谷歌学术引用页 https://scholar.google.com/citations?user=BOrL65sAAAAJ   H-index=15
