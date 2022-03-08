@@ -27,19 +27,35 @@ menu:
     link: /
     icon: ""
 
-  - text: Skills & Offers
+  - text: Research Projects 
     link: /skills-and-offers
     icon: ""
 
-  - text: Contact Me
+  - text: Entrusted Project
     link: /contact
     icon: ""
 
-  - text: My Resume
+  - text: Teaching Projects
     link: /resume
     icon: ""
 
-  - text: Blog Posts
+  - text: Awards and Honors
+    link: /blog
+    icon: ""
+    
+  - text: Publication
+    link: /blog
+    icon: ""
+
+  - text: Patent
+    link: /blog
+    icon: ""
+
+  - text: Student
+    link: /blog
+    icon: ""    
+
+  - text: Academic Services
     link: /blog
     icon: ""
 
