@@ -9,7 +9,7 @@ layout: default
     <td width="75%">
       <h1>彭勇（Peng Yong）</h1>
       <p><b>教授</b></p>
-      <p><b>杭州电子科技大学计算机学院1</b></p>
+      <p><b>杭州电子科技大学计算机学院</b></p>
       <p><b>邮箱：yongpeng@hdu.edu.cn</b></p>
       <p><b>通信地址：浙江省杭州市钱塘新区2号大街1158号杭电1教南515</b></p>
     </td>
