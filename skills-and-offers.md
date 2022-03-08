@@ -1,14 +1,21 @@
 ---
 ---
 
-# Skills & Offers
+# Research Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam dignissim diam quis enim. Tincidunt arcu non sodales neque. Pharetra pharetra massa massa ultricies. Massa vitae tortor condimentum lacinia quis vel eros. Lectus vestibulum mattis ullamcorper velit. Mauris cursus mattis molestie a iaculis. Faucibus interdum posuere lorem ipsum. Tristique risus nec feugiat in fermentum posuere. Egestas integer eget aliquet nibh praesent tristique magna sit. Diam donec adipiscing tristique risus nec feugiat in fermentum. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Id porta nibh venenatis cras sed felis. Erat pellentesque adipiscing commodo elit at imperdiet dui. A arcu cursus vitae congue mauris. Vitae justo eget magna fermentum iaculis eu non diam. Faucibus nisl tincidunt eget nullam non nisi est sit.
-
-Risus nullam eget felis eget. Id faucibus nisl tincidunt eget nullam non nisi. Nam libero justo laoreet sit. Et pharetra pharetra massa massa ultricies mi. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Scelerisque eu ultrices vitae auctor. Consequat interdum varius sit amet mattis vulputate enim. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Eget dolor morbi non arcu risus quis varius. Quis viverra nibh cras pulvinar. Ac ut consequat semper viverra nam libero justo. Faucibus et molestie ac feugiat sed lectus vestibulum. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Blandit turpis cursus in hac. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Elementum nibh tellus molestie nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Integer quis auctor elit sed vulputate mi sit amet mauris. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Non pulvinar neque laoreet suspendisse.
-
-Massa massa ultricies mi quis hendrerit dolor magna eget. Eget est lorem ipsum dolor sit amet. Sit amet volutpat consequat mauris nunc. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Sed risus ultricies tristique nulla aliquet enim tortor. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Id aliquet risus feugiat in. Massa sapien faucibus et molestie ac feugiat sed. Pretium aenean pharetra magna ac placerat vestibulum lectus. Nibh praesent tristique magna sit amet purus gravida quis blandit. Fames ac turpis egestas sed tempus urna. Tortor consequat id porta nibh venenatis cras sed felis. Aenean et tortor at risus viverra adipiscing at in. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Ac turpis egestas maecenas pharetra convallis. Mi quis hendrerit dolor magna eget est lorem ipsum dolor. Amet venenatis urna cursus eget nunc. Elit ut aliquam purus sit amet luctus venenatis. Amet dictum sit amet justo donec enim diam vulputate ut.
-
-Gravida neque convallis a cras. Nisi porta lorem mollis aliquam ut. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Euismod elementum nisi quis eleifend. Vel fringilla est ullamcorper eget nulla facilisi etiam. Urna neque viverra justo nec ultrices dui. Morbi blandit cursus risus at ultrices mi tempus. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Sed risus ultricies tristique nulla aliquet enim tortor at auctor. Sit amet porttitor eget dolor morbi non arcu risus quis. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a.
-
-Vel pharetra vel turpis nunc eget lorem. Nunc sed blandit libero volutpat sed cras ornare. Cursus risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Euismod nisi porta lorem mollis aliquam ut. Magna ac placerat vestibulum lectus. Semper risus in hendrerit gravida rutrum quisque non. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Neque vitae tempus quam pellentesque nec. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. At auctor urna nunc id cursus metus aliquam eleifend mi. Amet consectetur adipiscing elit pellentesque. Eget egestas purus viverra accumsan. Quis auctor elit sed vulputate mi sit amet. Placerat duis ultricies lacus sed.
+[1]	国家自然科学基金-面上项目（61971173），面向跨被试与跨时段脑电情感识别的知识迁移方法研究，01/2020-12/2023，70.8万，主持  
+[2]	国家自然科学基金-青年项目（61602140）：基于低秩模型的联合特征学习与识别算法研究，23.8万，01/2017-12/2019，主持已结题  
+[3]	浙江省科技计划-公益技术应用研究（2017C33049）：面向主动交通安全的驾驶员疲劳检测关键技术研究与系统开发，20万，01/2017-12/2019，主持已结题  
+[4]	浙江省自然科学基金（LY21F030005），面向结构化图构造的自适应特征权重学习与邻域选择方法研究，01/2021-12/2023，10万，主持  
+[5]	中国博士后科学基金（2017M620470）：低秩数据分析及应用，8万，01/2018-07/2019，主持  
+[6]	浙江省属高校基本科研业务费（GK209907299001-008），脑电情感识别研究，06/2020-06/2022，20万，主持  
+[7]	CCF-腾讯犀牛鸟创意基金（IAGR20170105）：面向低质量数据特征提取的无监督与半监督低秩子空间学习算法研究，3万，10/2017-12/2018，主持已结题  
+[8]	国防科技重点实验室开放基金（SSKF2018001），xxxx检测与识别，01/2019-06/2020，5万，主持已结题  
+[9]	其他，集成学习框架下的脑电疲劳回归检测算法研究，01/2020-06/2021，10万，主持已结题  
+[10]	其他，基于脑电的飞行员疲劳状态检测关键技术研究，01/2022-12/2023，10万，主持  
+[11]  其他，联合脑电特征迁移与情绪状态估计方法研究，09/2021-08/2024，5万，主持  
+[12]  其他，基于秩约束的联合结构化图学习与识别算法研究，5万，04/2019-03/2021，主持已结题  
+[13]	其他：基于自表示模型的联合结构化图学习与聚类算法研究， 01/2018-12/2019，5万，主持已结题    
+[14]	国家自然科学基金-企业创新发展联合基金（U20B2074），面向海量视频复杂目标识别的多脑脑机协同智能关键理论与技术，01/2021-12/2024，303万，参与，排名2/10    
+[15]	国际科技合作重点专项（2017YFE0116800）：张量表征的深度学习及在大脑运动功能康复中的应用，245万，01/2019-12/2021，参与，排名3/14    
+[16]	国家自然科学基金-面上项目（61671193）：任务无关脑纹识别的若干关键技术研究，72万，01/2017-12/2020，参与已结题，排名2/10
