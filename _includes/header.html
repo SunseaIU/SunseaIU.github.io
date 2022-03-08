@@ -5,7 +5,7 @@
   
   <div class="pan-layout-header__content">
     <div class="pan-layout-header__avatar">
-      <span>{{ site.title  }}</span>
+      <span>{{ site.title | default: site.github.owner_name }}</span>
       
       <a href="{{ '/' | relative_url }}">
         {% if site.github.owner_gravatar_url %}
