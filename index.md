@@ -14,7 +14,7 @@ layout: default
       <p><b>通信地址：浙江省杭州市钱塘新区2号大街1158号杭电1教南515</b></p>
     </td>
     <td width="25%">
-      <img src="/assets/images/zhengjianzhao.jpg" width="100%">      
+      <img src="./assets/images/zhengjianzhao.jpg" width="100%">      
     </td>
   </tr>
 </table>
