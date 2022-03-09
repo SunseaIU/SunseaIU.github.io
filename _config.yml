@@ -21,39 +21,39 @@ subtitle: Professor, Ph.D.
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: 基本信息
     link: /
     icon: ""
 
-  - text: Research Projects 
+  - text: 科研项目 
     link: /sesearch-projects
     icon: ""
 
-  - text: Entrusted Project
+  - text: 企业合作项目
     link: /entrusted-project
     icon: ""
 
-  - text: Teaching Projects
+  - text: 教学项目
     link: /teaching-projects
     icon: ""
 
-  - text: Awards and Honors
+  - text: 奖励与荣誉
     link: /awards
     icon: ""
     
-  - text: Publications
+  - text: 论文发表
     link: /publications
     icon: ""
 
-  - text: Patent
+  - text: 专利
     link: /patent
     icon: ""
 
-  - text: Student
+  - text: 学生培养
     link: /student
     icon: ""    
 
-  - text: Academic Services
+  - text: 学术服务
     link: /academic-services
     icon: ""
 
