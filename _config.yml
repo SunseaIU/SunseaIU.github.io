@@ -26,11 +26,11 @@ menu:
     icon: ""
 
   - text: 科研项目 
-    link: /project_1
+    link: /project-1
     icon: ""
 
   - text: 企业合作项目
-    link: /project_2
+    link: /project-2
     icon: ""
 
   - text: 教学项目
