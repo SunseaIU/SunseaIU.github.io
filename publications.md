@@ -4,21 +4,22 @@
 # Publications
 
 #### 2022
-[1]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. Neural Computing & Applications, accepted, 2022.(SCI二区)  
+[1]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. Neural Computing & Applications, accepted, 2022.(SCI二区)
+[2]	Bing Yang, Xueqin Xiang, Wanzeng Kong, **Yong Peng**, Jinliang Yao. Adaptive multi-task learning using lagrange multiplier for automatic art analysis. Multimedia Tools and Applications, 81(3): 3715-3733, 2022. (SCI三区)  
+[3]	Senwei Xu（研究生）, Li Zhu, Wanzeng Kong, **Yong Peng**, Hua Hu, Jianting Cao. A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network. Cognitive Neurodynamics, 16, 379-389, 2022.(SCI三区)  
+
 #### 2021
-[1]	**Yong Peng**, Wanzeng Kong, Feiwei Qin, Feiping Nie, Jinglong Fang, Bao-Liang Lu, Andrzej Cichocki. Self-weighted Semi-supervised Classification for Joint EEG-based Emotion Recognition and Affective Activation Patterns Mining, IEEE Transactions on Instrumentation and Measurement, DOI: 10.1109/TIM.2021.3124056, 2021.(SCI二区)  
-[2]	Bing Yang, Xueqin Xiang, Wanzeng Kong, **Yong Peng**, Jinliang Yao. Adaptive multi-task learning using lagrange multiplier for automatic art analysis. Multimedia Tools and Applications, DOI: 10.1007/s11042-021-11360-7, 2021.(SCI三区)  
-[3]	Senwei Xu（研究生）, Li Zhu, Wanzeng Kong, **Yong Peng**, Hua Hu, Jianting Cao. A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network. Cognitive Neurodynamics, DOI: 10.1007/s11571-021-09721-x, September 2021.(SCI二区)  
-[4]	Haowei Jiang（本科生）, Feiwei Qin, Jin Cao, **Yong Peng**, Yanli Shao. Recurrent Neural Network from Adder’s Perspective: Carry-lookahead RNN. Neural Networks, 144, 297-306, 2021.(SCI二区)   
-[5]	**Yong Peng**, Feiwei Qin, Wanzeng Kong, Feiping Nie, Yuan Ge, Andrzej Cichocki. GFIL: a unified framework for the analysis of features, frequency bands, channels in EEG-based emotion recognition. IEEE Transactions on Cognitive and Developmental Systems, DOI: 10.1109/TCDS.2021.3082803, 2021.(SCI三区)  
-[6]	**Yong Peng**, Xin Zhu, Feiping Nie, Wanzeng Kong, Yuan Ge. Fuzzy graph clustering. Information Sciences, 571: 38-49, 2021.(SCI二区)     
-[7]	**Yong Peng**, Yikai Zhang, Feiwei Qin, Wanzeng Kong. Joint non-negative and fuzzy coding with graph regularization for efficient data clustering. Egyptian Informatics Journal, 22(1): 91-100, 2021.(SCI三区)   
-[8]	Wenna Huang（研究生）, **Yong Peng**, Yuan Ge, Wanzeng Kong. A new kmeans formulation and its generalization achieved by joint spectral embedding and rotation. PeerJ Computer Science, doi: 10.7717/peerj-cs.450, 2021.(SCI三区)  
-[9]	Fangyao Shen（研究生）, **Yong Peng**, Wanzeng Kong, Guojun Dai. Multi-scale frequency bands ensemble learning for EEG-based emotion recognition. Sensors, 21(4), 1262, 2021.(SCI三区)   
-[10]	Xuanyu Jin（研究生）, Jiajia Tang（研究生）, Xianghao Kong (本科生), **Yong Peng**, Jianting Cao, Qibin Zhao, Wanzeng Kong. CTNN: a convolutional tensor-train neural network for multi-task brainprint recognition. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 29, 103-112, 2021.(SCI二区)   
-[11]	Xinnan Lin(研究生), Feiwei Qin, **Yong Peng**, Yanli Shao. Fine-Grained Pornographic Image Recognition with Multiple Feature Fusion Transfer Learning. International Journal of Machine Learning and Cybernetics, 12, 73-86, 2021.(SCI三区)  
-[12]	Yikai Zhang (本科生), **Yong Peng**, Hongyu Bian, Yuan Ge, Feiwei Qin, Wanzeng Kong. Auto-weighted concept factorization for joint feature map and data representation learning. Journal of Intelligent & Fuzzy Systems, 41(1): 69-81, 2021.(SCI四区)    
-[13]	Yuxuan Zhu(研究生), **Yong Peng**, Yang Song, Kenji Ozawa, Wanzeg Kong. RAMST-CNN: A residual and multiscale spatio-temporal convolution neural network for personal identification with EEG. IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol.E104-A, No.2, pp.563-571, 2021.(SCI四区)   
+[1]	**Yong Peng**, Wanzeng Kong, Feiwei Qin, Feiping Nie, Jinglong Fang, Bao-Liang Lu, Andrzej Cichocki. Self-weighted Semi-supervised Classification for Joint EEG-based Emotion Recognition and Affective Activation Patterns Mining, IEEE Transactions on Instrumentation and Measurement, DOI: 10.1109/TIM.2021.3124056, 2021.(SCI二区)    
+[2]	Haowei Jiang（本科生）, Feiwei Qin, Jin Cao, **Yong Peng**, Yanli Shao. Recurrent Neural Network from Adder’s Perspective: Carry-lookahead RNN. Neural Networks, 144, 297-306, 2021.(SCI二区)   
+[3]	**Yong Peng**, Feiwei Qin, Wanzeng Kong, Feiping Nie, Yuan Ge, Andrzej Cichocki. GFIL: a unified framework for the analysis of features, frequency bands, channels in EEG-based emotion recognition. IEEE Transactions on Cognitive and Developmental Systems, DOI: 10.1109/TCDS.2021.3082803, 2021.(SCI三区)  
+[4]	**Yong Peng**, Xin Zhu, Feiping Nie, Wanzeng Kong, Yuan Ge. Fuzzy graph clustering. Information Sciences, 571: 38-49, 2021.(SCI二区)     
+[5]	**Yong Peng**, Yikai Zhang, Feiwei Qin, Wanzeng Kong. Joint non-negative and fuzzy coding with graph regularization for efficient data clustering. Egyptian Informatics Journal, 22(1): 91-100, 2021.(SCI三区)   
+[6]	Wenna Huang（研究生）, **Yong Peng**, Yuan Ge, Wanzeng Kong. A new kmeans formulation and its generalization achieved by joint spectral embedding and rotation. PeerJ Computer Science, doi: 10.7717/peerj-cs.450, 2021.(SCI三区)  
+[7]	Fangyao Shen（研究生）, **Yong Peng**, Wanzeng Kong, Guojun Dai. Multi-scale frequency bands ensemble learning for EEG-based emotion recognition. Sensors, 21(4), 1262, 2021.(SCI三区)   
+[8]	Xuanyu Jin（研究生）, Jiajia Tang（研究生）, Xianghao Kong (本科生), **Yong Peng**, Jianting Cao, Qibin Zhao, Wanzeng Kong. CTNN: a convolutional tensor-train neural network for multi-task brainprint recognition. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 29, 103-112, 2021.(SCI二区)   
+[9]	Xinnan Lin(研究生), Feiwei Qin, **Yong Peng**, Yanli Shao. Fine-Grained Pornographic Image Recognition with Multiple Feature Fusion Transfer Learning. International Journal of Machine Learning and Cybernetics, 12, 73-86, 2021.(SCI三区)  
+[10]	Yikai Zhang (本科生), **Yong Peng**, Hongyu Bian, Yuan Ge, Feiwei Qin, Wanzeng Kong. Auto-weighted concept factorization for joint feature map and data representation learning. Journal of Intelligent & Fuzzy Systems, 41(1): 69-81, 2021.(SCI四区)    
+[11]	Yuxuan Zhu(研究生), **Yong Peng**, Yang Song, Kenji Ozawa, Wanzeg Kong. RAMST-CNN: A residual and multiscale spatio-temporal convolution neural network for personal identification with EEG. IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol.E104-A, No.2, pp.563-571, 2021.(SCI四区)   
 [14]	秦飞巍，沈希乐，**彭勇**，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。计算机辅助设计与图形学学报，33 (7), 1026-1037, 2021. （中文一级学报）  
 #### 2020
 [1]	**Yong Peng**, Qingxi Li, Wanzeng Kong, Feiwei Qin, Jianhai Zhang, Andrzej Cichocki. A joint optimization framework to semi-supervised RVFL and ELM networks for efficient data classification. Applied Soft Computing, volume 97, Part A, Article ID 106756, 2020.(SCI二区)   
