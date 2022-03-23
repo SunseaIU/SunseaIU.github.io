@@ -20,7 +20,7 @@
 [9]	Xinnan Lin(研究生), Feiwei Qin, **Yong Peng**, Yanli Shao. Fine-Grained Pornographic Image Recognition with Multiple Feature Fusion Transfer Learning. _International Journal of Machine Learning and Cybernetics_, 12, 73-86, 2021.(SCI三区)  
 [10]	Yikai Zhang (本科生), **Yong Peng**, Hongyu Bian, Yuan Ge, Feiwei Qin, Wanzeng Kong. Auto-weighted concept factorization for joint feature map and data representation learning. _Journal of Intelligent & Fuzzy Systems_, 41(1): 69-81, 2021.(SCI四区)    
 [11]	Yuxuan Zhu(研究生), **Yong Peng**, Yang Song, Kenji Ozawa, Wanzeg Kong. RAMST-CNN: A residual and multiscale spatio-temporal convolution neural network for personal identification with EEG. _IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences_, Vol.E104-A, No.2, pp.563-571, 2021.(SCI四区)   
-[14]	秦飞巍，沈希乐，**彭勇**，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。_计算机辅助设计与图形学学报_，33 (7), 1026-1037, 2021. （中文一级学报）  
+[12]	秦飞巍，沈希乐，**彭勇**，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。_计算机辅助设计与图形学学报_，33 (7), 1026-1037, 2021. （中文一级学报）  
 #### 2020
 [1]	**Yong Peng**, Qingxi Li, Wanzeng Kong, Feiwei Qin, Jianhai Zhang, Andrzej Cichocki. A joint optimization framework to semi-supervised RVFL and ELM networks for efficient data classification. _Applied Soft Computing_, volume 97, Part A, Article ID 106756, 2020.(SCI二区)   
 [2]	**Yong Peng**, Leijie Zhang, Wanzeng Kong, Feiwei Qin, Jianhai Zhang. Joint low-rank representation and spectral regression for robust subspace learning. _Knowledge-Based Systems_, 195, 105723, 2020.(SCI二区)   
@@ -40,7 +40,7 @@
 [6]	Jianhai Zhang, Shaokai Zhao, Guodong Yang, Jiajia Tang, Tao Zhang, **Yong Peng**, Wanzeng Kong, Emotional-state brain network analysis revealed by minimum spanning tree using EEG signals. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), Madrid, Spain, December 3-6, pages 1045-1048, 2018.(CCF B会)     
 [7]	Jianhai Zhang, Na Zhang, Jiajia Tang, Jianting Cao, Wanzeng Kong, **Yong Peng**. A new method for brain death diagnosis based on phase synchronization analysis with EEG. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), Madrid, Spain, December 3-6, pages 1135-1138, 2018.(CCF B会)     
 #### 2017
-[1]	**Yong Pen**g, Bao-Liang Lu. Discriminative extreme learning machine with supervised sparsity preserving for image classification. _Neurocomputing_, 261: 242-252, 2017.（引用70+）(SCI二区)  
+[1]	**Yong Pen**g, Bao-Liang Lu. Discriminative extreme learning machine with supervised sparsity preserving for image classification. _Neurocomputing_, 261: 242-252, 2017.(SCI二区,引用70+)  
 [2]	**Yong Peng**, Wanzeng Kong, Bing Yang. Orthogonal extreme learning machine for image classification. _Neurocomputing_, 266: 458-464, 2017.(SCI二区)   
 [3]	**Yong Peng**, Bao-Liang Lu. Robust structured sparse representation via half-quadratic optimization for face recognition. _Multimedia Tools and Applications_,76(6): 8859-8880, 2017.(SCI三区)   
 [4]	Zhi-Jie Wang, Xiao Lin, Mei-E Fang, Bin Yao, **Yong Peng**, Haibin Guan, MinyiGuo. RE2L: An efficient output-sensitive algorithm for computing boolen operations on circular-arc polygons and its applications. _Computer-Aided Design_, 83(2):1--14, 2017.(SCI二区)   
