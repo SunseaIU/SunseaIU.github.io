@@ -1,5 +1,4 @@
----
----
+
 
 # Entrusted Project
 
