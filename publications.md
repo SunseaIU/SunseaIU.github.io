@@ -4,7 +4,7 @@
 # Publications
 
 #### 2022
-[1]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. Neural Computing & Applications, accepted, 2022.(SCI二区)
+[1]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. Neural Computing & Applications, accepted, 2022.(SCI二区)  
 [2]	Bing Yang, Xueqin Xiang, Wanzeng Kong, **Yong Peng**, Jinliang Yao. Adaptive multi-task learning using lagrange multiplier for automatic art analysis. Multimedia Tools and Applications, 81(3): 3715-3733, 2022. (SCI三区)  
 [3]	Senwei Xu（研究生）, Li Zhu, Wanzeng Kong, **Yong Peng**, Hua Hu, Jianting Cao. A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network. Cognitive Neurodynamics, 16, 379-389, 2022.(SCI三区)  
 
