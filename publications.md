@@ -32,29 +32,29 @@
 [3]	**Yong Peng**, Yanfang Long, Feiwei Qin, Wanzeng Kong, Feiping Nie, Andrzej Cichocki. Flexible non-negative matrix factorization with adaptively learned graph regularization. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Brighton, UK, May 12-17, pages 3107-3111, 2019.(CCF B会)     
 [4]	**Yong Peng**, Rixin Tang, Wanzeng Kong, Jianhai Zhang, Feiping Nie, Andrzej Cichocki. Joint structured graph learning and clustering via concept factorization. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Brighton, UK, May 12-17, pages 3162-3166, 2019.(CCF B会)    
 #### 2018
-[1]	**Yong Peng**, Wanzeng Kong, Feiwei Qin, Feiping Nie. Manifold adaptive kernelized low-rank representation for semi-supervised image classification. Complexity, Volume 2018 (2018), Article ID 2857594, 2018.(SCI三区)    
-[2]	Feiwei Qin, Nannan Gao, **Yong Peng**, Zizhao Wu, Shuying Shen, Artur Grudtsin. Fine-grained leukocyte classification with deep residual learning for microscopic images. Computer Methods and Programs in Biomedicine, 162: 243-252, 2018.(SCI二区)   
-[3]	Feiwei Qin, Haibing Xia, **Yong Peng**, Zizhao Wu. Integrated modeling, simulation and visualization for nano materials. Complexity, Volume 2018 (2018), Article ID 5083247.(SCI三区)    
-[4]	Wanzeng Kong, Shijie Guo, Yanfang Long, **Yong Peng**, Hong Zeng, Xinyu Zhang, Jianhai Zhang. Weighted extreme learning machine for P300 detection with application to brain computer interface. Journal of Ambient Intelligence and Humanized Computing, 10.1007/s12652-018-0840-1, May 2018.(SCI二区)  
-[5]	**Yong Peng**, Rixin Tang, Wanzeng Kong, Feiwei Qin, Feiping Nie. Parallel vector field regularized non-negative matrix factorization for image representation. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Canada, April 15-20, pages 2216-2220, 2018.(CCF B会)    
-[6]	Jianhai Zhang, Shaokai Zhao, Guodong Yang, Jiajia Tang, Tao Zhang, **Yong Peng**, Wanzeng Kong, Emotional-state brain network analysis revealed by minimum spanning tree using EEG signals. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Madrid, Spain, December 3-6, pages 1045-1048, 2018.(CCF B会)     
-[7]	Jianhai Zhang, Na Zhang, Jiajia Tang, Jianting Cao, Wanzeng Kong, **Yong Peng**. A new method for brain death diagnosis based on phase synchronization analysis with EEG. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Madrid, Spain, December 3-6, pages 1135-1138, 2018.(CCF B会)     
+[1]	**Yong Peng**, Wanzeng Kong, Feiwei Qin, Feiping Nie. Manifold adaptive kernelized low-rank representation for semi-supervised image classification. _Complexity_, Volume 2018 (2018), Article ID 2857594, 2018.(SCI三区)    
+[2]	Feiwei Qin, Nannan Gao, **Yong Peng**, Zizhao Wu, Shuying Shen, Artur Grudtsin. Fine-grained leukocyte classification with deep residual learning for microscopic images. _Computer Methods and Programs in Biomedicine_, 162: 243-252, 2018.(SCI二区)   
+[3]	Feiwei Qin, Haibing Xia, **Yong Peng**, Zizhao Wu. Integrated modeling, simulation and visualization for nano materials. _Complexity_, Volume 2018 (2018), Article ID 5083247.(SCI三区)    
+[4]	Wanzeng Kong, Shijie Guo, Yanfang Long, **Yong Peng**, Hong Zeng, Xinyu Zhang, Jianhai Zhang. Weighted extreme learning machine for P300 detection with application to brain computer interface. _Journal of Ambient Intelligence and Humanized Computing_, 10.1007/s12652-018-0840-1, May 2018.(SCI二区)  
+[5]	**Yong Peng**, Rixin Tang, Wanzeng Kong, Feiwei Qin, Feiping Nie. Parallel vector field regularized non-negative matrix factorization for image representation. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Calgary, Canada, April 15-20, pages 2216-2220, 2018.(CCF B会)    
+[6]	Jianhai Zhang, Shaokai Zhao, Guodong Yang, Jiajia Tang, Tao Zhang, **Yong Peng**, Wanzeng Kong, Emotional-state brain network analysis revealed by minimum spanning tree using EEG signals. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), Madrid, Spain, December 3-6, pages 1045-1048, 2018.(CCF B会)     
+[7]	Jianhai Zhang, Na Zhang, Jiajia Tang, Jianting Cao, Wanzeng Kong, **Yong Peng**. A new method for brain death diagnosis based on phase synchronization analysis with EEG. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), Madrid, Spain, December 3-6, pages 1135-1138, 2018.(CCF B会)     
 #### 2017
-[1]	**Yong Pen**g, Bao-Liang Lu. Discriminative extreme learning machine with supervised sparsity preserving for image classification. Neurocomputing, 261: 242-252, 2017.（引用70+）(SCI二区)  
-[2]	**Yong Peng**, Wanzeng Kong, Bing Yang. Orthogonal extreme learning machine for image classification. Neurocomputing, 266: 458-464, 2017.(SCI二区)   
-[3]	**Yong Peng**, Bao-Liang Lu. Robust structured sparse representation via half-quadratic optimization for face recognition. Multimedia Tools and Applications,76(6): 8859-8880, 2017.(SCI三区)   
-[4]	Zhi-Jie Wang, Xiao Lin, Mei-E Fang, Bin Yao, **Yong Peng**, Haibin Guan, MinyiGuo. RE2L: An efficient output-sensitive algorithm for computing boolen operations on circular-arc polygons and its applications. Computer-Aided Design, 83(2):1--14, 2017.(SCI二区)   
+[1]	**Yong Pen**g, Bao-Liang Lu. Discriminative extreme learning machine with supervised sparsity preserving for image classification. _Neurocomputing_, 261: 242-252, 2017.（引用70+）(SCI二区)  
+[2]	**Yong Peng**, Wanzeng Kong, Bing Yang. Orthogonal extreme learning machine for image classification. _Neurocomputing_, 266: 458-464, 2017.(SCI二区)   
+[3]	**Yong Peng**, Bao-Liang Lu. Robust structured sparse representation via half-quadratic optimization for face recognition. _Multimedia Tools and Applications_,76(6): 8859-8880, 2017.(SCI三区)   
+[4]	Zhi-Jie Wang, Xiao Lin, Mei-E Fang, Bin Yao, **Yong Peng**, Haibin Guan, MinyiGuo. RE2L: An efficient output-sensitive algorithm for computing boolen operations on circular-arc polygons and its applications. _Computer-Aided Design_, 83(2):1--14, 2017.(SCI二区)   
 #### 2016
-[1]	**Yong Peng**, Bao-Liang Lu. Discriminative manifold extreme learning machine and applications to image and EEG signal classification. Neurocomputing, 174:265--277, 2016.(SCI二区)   
-[2]	**Yong Peng**, Wei-Long Zheng, Bao-Liang Lu. An unsupervised discriminative extreme learning machine and its applications to data clustering. Neurocomputing, 174: 250--264, 2016.(SCI二区)   
-[3]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Xianzhong Wang, Shaokun Feng. Image classification based on improved VLAD. Multimedia Tools and Applications,75(10), 5533--5555, 2016.(SCI三区)   
+[1]	**Yong Peng**, Bao-Liang Lu. Discriminative manifold extreme learning machine and applications to image and EEG signal classification. _Neurocomputing_, 174:265--277, 2016.(SCI二区)   
+[2]	**Yong Peng**, Wei-Long Zheng, Bao-Liang Lu. An unsupervised discriminative extreme learning machine and its applications to data clustering. _Neurocomputing_, 174: 250--264, 2016.(SCI二区)   
+[3]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Xianzhong Wang, Shaokun Feng. Image classification based on improved VLAD. _Multimedia Tools and Applications_,75(10), 5533--5555, 2016.(SCI三区)   
 #### 2015
-[1]	**Yong Peng**, Suhang Wang, Xianzhong Long, Bao-Liang Lu. Discriminative graph regularized extreme learning machine and its application to face recognition. Neurocomputing,149: 340--353, 2015.（SCI二区，引用110+，曾入选ESI高被引论文）  
-[2]	**Yong Peng**, Bao-Liang Lu, Suhang Wang. Enhanced low rank representation via sparse manifold adaption for semi-supervised learning. Neural Networks, 65: 1--17, 2015.(SCI二区)     
+[1]	**Yong Peng**, Suhang Wang, Xianzhong Long, Bao-Liang Lu. Discriminative graph regularized extreme learning machine and its application to face recognition. _Neurocomputing_,149: 340--353, 2015.（SCI二区，引用110+，曾入选ESI高被引论文）  
+[2]	**Yong Peng**, Bao-Liang Lu, Suhang Wang. Enhanced low rank representation via sparse manifold adaption for semi-supervised learning. _Neural Networks_, 65: 1--17, 2015.(SCI二区)     
 [3]	**Yong Pen**g, Bao-Liang Lu. Hybrid learning clonal selection algorithm. Information Sciences, 296: 128--146, 2015.(SCI二区)   
-[4]	**Yong Peng**, Xianzhong Long, Bao-Liang Lu. Graph based semi-supervised learning via structure preserving low rank representation. Neural Processing Letters, 41(3): 389--406,2015.(SCI三区)   
+[4]	**Yong Peng**, Xianzhong Long, Bao-Liang Lu. Graph based semi-supervised learning via structure preserving low rank representation. _Neural Processing Letters_, 41(3): 389--406,2015.(SCI三区)   
 #### 2014 & 以前
-[1]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. Multimedia Tools and Applications, 72(3): 2679--2699, 2014.(SCI三区)  
-[2]	Wei-Long Zheng, Jia-Yi Zhu, **Yong Peng**, Bao-Liang Lu. EEG-based emotion classification using deep belief networks. IEEE International Conference on Multimedia and Expo (ICME), Chengdu, China, July 14-18, pages 1--6, 2014. （引用260+）  
-[3]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. Applied Soft Computing, 13(5): 2823--2836, 2013.(SCI二区)   
-[4]	林浒（导师），**彭勇**。面向多目标优化的适应度共享免疫克隆算法。控制理论与应用，28（2）：206-214， 2011（中文权威期刊）  
+[1]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.(SCI三区)  
+[2]	Wei-Long Zheng, Jia-Yi Zhu, **Yong Peng**, Bao-Liang Lu. EEG-based emotion classification using deep belief networks. _IEEE International Conference on Multimedia and Expo_ (ICME), Chengdu, China, July 14-18, pages 1--6, 2014. （引用260+）  
+[3]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.(SCI二区)   
+[4]	林浒（导师），**彭勇**。面向多目标优化的适应度共享免疫克隆算法。_控制理论与应用_，28（2）：206-214， 2011（中文权威期刊）  
