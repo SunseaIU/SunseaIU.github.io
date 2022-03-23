@@ -30,4 +30,4 @@
 
 ### 研究方向
 人工智能理论（机器学习、模式识别算法）与应用（脑机交互系统）研究  
-我的谷歌学术引用页 <https://scholar.google.com/citations?user=BOrL65sAAAAJ   H-index=15>
+我的谷歌学术引用页 <https://scholar.google.com/citations?user=BOrL65sAAAAJ>
