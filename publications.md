@@ -52,7 +52,7 @@
 #### 2015
 [1]	**Yong Peng**, Suhang Wang, Xianzhong Long, Bao-Liang Lu. Discriminative graph regularized extreme learning machine and its application to face recognition. _Neurocomputing_,149: 340--353, 2015.（SCI二区，引用110+，曾入选ESI高被引论文）  
 [2]	**Yong Peng**, Bao-Liang Lu, Suhang Wang. Enhanced low rank representation via sparse manifold adaption for semi-supervised learning. _Neural Networks_, 65: 1--17, 2015.(SCI二区)     
-[3]	**Yong Pen**g, Bao-Liang Lu. Hybrid learning clonal selection algorithm. Information Sciences, 296: 128--146, 2015.(SCI二区)   
+[3]	**Yong Pen**g, Bao-Liang Lu. Hybrid learning clonal selection algorithm. _Information Sciences_, 296: 128--146, 2015.(SCI二区)   
 [4]	**Yong Peng**, Xianzhong Long, Bao-Liang Lu. Graph based semi-supervised learning via structure preserving low rank representation. _Neural Processing Letters_, 41(3): 389--406,2015.(SCI三区)   
 #### 2014 & 以前
 [1]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.(SCI三区)  
