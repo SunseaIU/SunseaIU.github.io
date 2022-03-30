@@ -5,7 +5,7 @@
 
 #### 2022
 [1]	**Yong Peng**, Yikai Zhang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu and Andrzej Cichocki. S3LRR: a unified model for joint discriminative subspace identification and EEG emotion recognition. _IEEE Transactions on Instrumentation and Measurement_, accepted, 2022.(SCI二区)  
-[2]	Xing Li（研究生）, Fangyao Shen（研究生）, **Yong Peng**, Wanzeng Kong and Bao-Liang Lu. Joint sample and feature quality evaluation for semi-supervised EEG emotion recognition. _IEEE Transactions on Circuits and Systems-II: Express Briefs_, DOI:10.1109/TCSII.2022.3163141, 2022.(SCI三区)  
+[2]	Xing Li（研究生）, Fangyao Shen（研究生）, **Yong Peng**, Wanzeng Kong and Bao-Liang Lu. Efficient Sample and Feature Importance Mining in Semi-supervised EEG Emotion Recognition. _IEEE Transactions on Circuits and Systems-II: Express Briefs_, DOI:10.1109/TCSII.2022.3163141, 2022.(SCI三区)  
 [3]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. _Neural Computing & Applications_, accepted, 2022.(SCI二区)  
 [4]	Bing Yang, Xueqin Xiang, Wanzeng Kong, **Yong Peng**, Jinliang Yao. Adaptive multi-task learning using lagrange multiplier for automatic art analysis. _Multimedia Tools and Applications_, 81(3): 3715-3733, 2022. (SCI三区)  
 [5]	Senwei Xu（研究生）, Li Zhu, Wanzeng Kong, **Yong Peng**, Hua Hu, Jianting Cao. A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network. _Cognitive Neurodynamics_, 16, 379-389, 2022.(SCI三区)  
