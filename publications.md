@@ -9,6 +9,8 @@
 [3]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. _Neural Computing & Applications_, accepted, 2022.(SCI二区)  
 [4]	Bing Yang, Xueqin Xiang, Wanzeng Kong, **Yong Peng**, Jinliang Yao. Adaptive multi-task learning using lagrange multiplier for automatic art analysis. _Multimedia Tools and Applications_, 81(3): 3715-3733, 2022. (SCI三区)  
 [5]	Senwei Xu（研究生）, Li Zhu, Wanzeng Kong, **Yong Peng**, Hua Hu, Jianting Cao. A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network. _Cognitive Neurodynamics_, 16, 379-389, 2022.(SCI三区)  
+[6]	Meie Fang, Zhuxin Jin, Feiwei Qin, **Yong Peng**, Chao Jiang, Zhigeng Pan. Re-transfer learning and multi-modal learning assisted early diagnosis Alzheimer’s disease. _Multimedia Tools and Applications_, DOI:10.1007/s11042-022-11911-6, 2022. (SCI三区)    
+
 
 #### 2021
 [1]	**Yong Peng**, Wanzeng Kong, Feiwei Qin, Feiping Nie, Jinglong Fang, Bao-Liang Lu, Andrzej Cichocki. Self-weighted Semi-supervised Classification for Joint EEG-based Emotion Recognition and Affective Activation Patterns Mining, _IEEE Transactions on Instrumentation and Measurement_, DOI: 10.1109/TIM.2021.3124056, 2021.(SCI二区)    
