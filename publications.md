@@ -4,7 +4,7 @@
 # Publications
 
 #### 2022
-[1] **Yong Peng**, Fengzhe Jin, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, and Andrzej Cichocki. OGSSL: a semi-supervised classification model coupled with optimal graph learning for EEG emotion recognition. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, accepted, 2022.(SCI二区)   
+[1] **Yong Peng**, Fengzhe Jin, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, and Andrzej Cichocki. OGSSL: a semi-supervised classification model coupled with optimal graph learning for EEG emotion recognition. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, DOI:10.1109/TNSRE.2022.3175464, 2022.(SCI二区)   
 [2] **Yong Peng**, Yikai Zhang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu and Andrzej Cichocki. S3LRR: a unified model for joint discriminative subspace identification and EEG emotion recognition. _IEEE Transactions on Instrumentation and Measurement_, DOI:10.1109/TIM.2022.3165741, 2022.(SCI二区)  
 [3]	Xing Li（研究生）, Fangyao Shen（研究生）, **Yong Peng**, Wanzeng Kong and Bao-Liang Lu. Efficient Sample and Feature Importance Mining in Semi-supervised EEG Emotion Recognition. _IEEE Transactions on Circuits and Systems-II: Express Briefs_, DOI:10.1109/TCSII.2022.3163141, 2022.(SCI三区)  
 [4]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. _Neural Computing & Applications_, accepted, 2022.(SCI二区)  
