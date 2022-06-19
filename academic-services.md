@@ -31,14 +31,7 @@ Neural Networks (Elsevier)
 Pattern Recognition (Elsevier)  
 Applied Soft Computing (Elsevier)  
 
-担任以下国际会议程序委员与审稿人：  
-> PC member:   
-International Joint Conference on Artificial Intelligence (IJCAI2019,2020)  
-International Conference on Neural Information Processing (ICONIP2018,2020, 2021)  
-AAAI Conference on Artificial Intelligence (AAAI2018、2022)  
-International Conference on Intelligent Systems and Knowledge Engineering (ISKE2017)  
-Reviewer:  
-International Conference on Neural Information Processing (ICONIP)  
-International Joint Conference on Neural Networks (IJCNN)  
-IEEE International Conference on Tools with Artificial Intelligence (ICTAI)  
-Annual Conference of IEEE Engineering in Medicine and Biology Society (EMBC)  
+担任以下国际会议程序委员会委员：  
+International Joint Conference on Artificial Intelligence (2019,2020)  
+International Conference on Neural Information Processing (2018,2020,2021,2022)  
+AAAI Conference on Artificial Intelligence (2018,2022)  
