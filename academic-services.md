@@ -32,6 +32,6 @@ Pattern Recognition (Elsevier)
 Applied Soft Computing (Elsevier)  
 
 担任以下国际会议程序委员会委员：  
-International Joint Conference on Artificial Intelligence (2019,2020)  
+> International Joint Conference on Artificial Intelligence (2019,2020)  
 International Conference on Neural Information Processing (2018,2020,2021,2022)  
 AAAI Conference on Artificial Intelligence (2018,2022)  
