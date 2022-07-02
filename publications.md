@@ -18,7 +18,7 @@
 #### 2021
 [1]	**Yong Peng**, Wanzeng Kong, Feiwei Qin, Feiping Nie, Jinglong Fang, Bao-Liang Lu, Andrzej Cichocki. Self-weighted Semi-supervised Classification for Joint EEG-based Emotion Recognition and Affective Activation Patterns Mining, _IEEE Transactions on Instrumentation and Measurement_, DOI: 10.1109/TIM.2021.3124056, 2021.(SCI, IF: 5.332)    
 [2]	**Yong Peng**, Feiwei Qin, Wanzeng Kong, Feiping Nie, Yuan Ge, Andrzej Cichocki. GFIL: a unified framework for the analysis of features, frequency bands, channels in EEG-based emotion recognition. _IEEE Transactions on Cognitive and Developmental Systems_, DOI: 10.1109/TCDS.2021.3082803, 2021.(SCI, IF: 4.546)  
-[3]	**Yong Peng**, Xin Zhu, Feiping Nie, Wanzeng Kong, Yuan Ge. Fuzzy graph clustering. _Information Sciences_, 571: 38-49, 2021.(SCI, IF: 8.233)
+[3]	**Yong Peng**, Xin Zhu, Feiping Nie, Wanzeng Kong, Yuan Ge. Fuzzy graph clustering. _Information Sciences_, 571: 38-49, 2021.(SCI, IF: 8.233)   
 [4]	Haowei Jiang（本科生）, Feiwei Qin, Jin Cao, **Yong Peng**, Yanli Shao. Recurrent Neural Network from Adder’s Perspective: Carry-lookahead RNN. _Neural Networks_, 144, 297-306, 2021.(SCI, IF: 9.657)      
 [5]	**Yong Peng**, Yikai Zhang, Feiwei Qin, Wanzeng Kong. Joint non-negative and fuzzy coding with graph regularization for efficient data clustering. _Egyptian Informatics Journal_, 22(1): 91-100, 2021.(SCI, IF: 4.195)   
 [6]	Wenna Huang（研究生）, **Yong Peng**, Yuan Ge, Wanzeng Kong. A new kmeans formulation and its generalization achieved by joint spectral embedding and rotation. _PeerJ Computer Science_, doi: 10.7717/peerj-cs.450, 2021.(SCI, IF: 2.411)  
