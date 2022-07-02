@@ -48,20 +48,20 @@
 [7]	Jianhai Zhang, Na Zhang, Jiajia Tang, Jianting Cao, Wanzeng Kong, **Yong Peng**. A new method for brain death diagnosis based on phase synchronization analysis with EEG. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), Madrid, Spain, December 3-6, pages 1135-1138, 2018.(CCF B会)     
 #### 2017
 [1]	**Yong Pen**g, Bao-Liang Lu. Discriminative extreme learning machine with supervised sparsity preserving for image classification. _Neurocomputing_, 261: 242-252, 2017.(SCI, IF: 5.779, **Google Citation=71**)  
-[2]	**Yong Peng**, Wanzeng Kong, Bing Yang. Orthogonal extreme learning machine for image classification. _Neurocomputing_, 266: 458-464, 2017.(SCI, IF: 5.779)   
+[2]	**Yong Peng**, Wanzeng Kong, Bing Yang. Orthogonal extreme learning machine for image classification. _Neurocomputing_, 266: 458-464, 2017.(SCI, IF: 5.779, Google Citation=27)   
 [3]	**Yong Peng**, Bao-Liang Lu. Robust structured sparse representation via half-quadratic optimization for face recognition. _Multimedia Tools and Applications_,76(6): 8859-8880, 2017.(SCI, IF: 2.577)   
 [4]	Zhi-Jie Wang, Xiao Lin, Mei-E Fang, Bin Yao, **Yong Peng**, Haibin Guan, MinyiGuo. RE2L: An efficient output-sensitive algorithm for computing boolen operations on circular-arc polygons and its applications. _Computer-Aided Design_, 83(2):1--14, 2017.(SCI, IF: 3.652)   
 #### 2016
-[1]	**Yong Peng**, Bao-Liang Lu. Discriminative manifold extreme learning machine and applications to image and EEG signal classification. _Neurocomputing_, 174:265--277, 2016.(SCI, IF: 5.779)   
-[2]	**Yong Peng**, Wei-Long Zheng, Bao-Liang Lu. An unsupervised discriminative extreme learning machine and its applications to data clustering. _Neurocomputing_, 174: 250--264, 2016.(SCI, IF: 5.779)   
-[3]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Xianzhong Wang, Shaokun Feng. Image classification based on improved VLAD. _Multimedia Tools and Applications_,75(10), 5533--5555, 2016.(SCI, IF: 2.577, Google Citation=)   
+[1]	**Yong Peng**, Bao-Liang Lu. Discriminative manifold extreme learning machine and applications to image and EEG signal classification. _Neurocomputing_, 174:265--277, 2016.(SCI, IF: 5.779, Google Citation=41)   
+[2]	**Yong Peng**, Wei-Long Zheng, Bao-Liang Lu. An unsupervised discriminative extreme learning machine and its applications to data clustering. _Neurocomputing_, 174: 250--264, 2016.(SCI, IF: 5.779, Google Citation=37)   
+[3]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Xianzhong Wang, Shaokun Feng. Image classification based on improved VLAD. _Multimedia Tools and Applications_,75(10), 5533--5555, 2016.(SCI, IF: 2.577)   
 #### 2015
 [1]	**Yong Peng**, Suhang Wang, Xianzhong Long, Bao-Liang Lu. Discriminative graph regularized extreme learning machine and its application to face recognition. _Neurocomputing_,149: 340--353, 2015.（SCI, IF: 5.779, Googel Citation=110, **ESI Highly Cited Paper** in 2016）  
-[2]	**Yong Peng**, Bao-Liang Lu, Suhang Wang. Enhanced low rank representation via sparse manifold adaption for semi-supervised learning. _Neural Networks_, 65: 1--17, 2015.(SCI, IF: 9.657)     
-[3]	**Yong Pen**g, Bao-Liang Lu. Hybrid learning clonal selection algorithm. _Information Sciences_, 296: 128--146, 2015.(SCI, IF: 8.233)   
+[2]	**Yong Peng**, Bao-Liang Lu, Suhang Wang. Enhanced low rank representation via sparse manifold adaption for semi-supervised learning. _Neural Networks_, 65: 1--17, 2015.(SCI, IF: 9.657, Google Citation=42)     
+[3]	**Yong Pen**g, Bao-Liang Lu. Hybrid learning clonal selection algorithm. _Information Sciences_, 296: 128--146, 2015.(SCI, IF: 8.233, Google Citation=38)   
 [4]	**Yong Peng**, Xianzhong Long, Bao-Liang Lu. Graph based semi-supervised learning via structure preserving low rank representation. _Neural Processing Letters_, 41(3): 389--406,2015.(SCI, IF: 2.565)   
 #### 2014 & 以前
 [1]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.(SCI, IF: 2.577, **Google Citation=54**)  
 [2]	Wei-Long Zheng, Jia-Yi Zhu, **Yong Peng**, Bao-Liang Lu. EEG-based emotion classification using deep belief networks. _IEEE International Conference on Multimedia and Expo_ (ICME), Chengdu, China, July 14-18, pages 1--6, 2014. （CCF B会，**Google Citation=298**）  
-[3]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.(SCI, IF: 8.263)   
+[3]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.(SCI, IF: 8.263, Google Citation=25)   
 [4]	林浒（导师），**彭勇**。面向多目标优化的适应度共享免疫克隆算法。_控制理论与应用_，28（2）：206-214， 2011（中文权威期刊）  
