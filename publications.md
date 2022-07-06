@@ -4,7 +4,7 @@
 # Publications
 
 #### 2022
-[1] **Yong Peng**, Wenjuan Wang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, Andrzej Cichocki. Joint class-wise probability adaptation and graph-based label propagation model for EEG-based cross-subject emotion recognition. _IEEE Transactions on Affective Computing_, accepted, June 2022. (SCI, IF: 13.990)   
+[1] **Yong Peng**, Wenjuan Wang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, Andrzej Cichocki. Joint class-wise probability adaptation and graph-based label propagation model for EEG-based cross-subject emotion recognition. _IEEE Transactions on Affective Computing_, DOI:10.1109/TAFFC.2022.3189222, 2022. (SCI, IF: 13.990)   
 [2] **Yong Peng**, Fengzhe Jin, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, and Andrzej Cichocki. OGSSL: a semi-supervised classification model coupled with optimal graph learning for EEG emotion recognition. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, DOI:10.1109/TNSRE.2022.3175464, 2022.(SCI, IF:4.528)   
 [3] **Yong Peng**, Yikai Zhang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu and Andrzej Cichocki. S3LRR: a unified model for joint discriminative subspace identification and EEG emotion recognition. _IEEE Transactions on Instrumentation and Measurement_, DOI:10.1109/TIM.2022.3165741, 2022.(SCI, IF: 5.332)  
 [4]	Xing Li（研究生）, Fangyao Shen（研究生）, **Yong Peng**, Wanzeng Kong and Bao-Liang Lu. Efficient Sample and Feature Importance Mining in Semi-supervised EEG Emotion Recognition. _IEEE Transactions on Circuits and Systems-II: Express Briefs_, DOI:10.1109/TCSII.2022.3163141, 2022.(SCI, IF:3.691)  
