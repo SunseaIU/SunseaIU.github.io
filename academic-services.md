@@ -21,6 +21,8 @@
 
 担任以下SCI源期刊审稿人：  
 > ACM Transactions on Multimedia Computing Communications and Applications (TOMCCAP)  
+IEEE Transactions on Fuzzy Systems (TFS)   
+IEEE Transactions on Affective Computing (TAFFC)   
 IEEE Transactions on Information Forensics and Security (TIFS)  
 IEEE Transactions on Cognitive and Developmental Systems (TCDS)  
 IEEE Transactions on Systems, Man and Cybernetics-Part A: Systems (TSMCA)  
@@ -34,4 +36,4 @@ Applied Soft Computing (Elsevier)
 担任以下国际会议程序委员会委员：  
 > International Joint Conference on Artificial Intelligence (2019,2020)  
 International Conference on Neural Information Processing (2018,2020,2021,2022)  
-AAAI Conference on Artificial Intelligence (2018,2022)  
+AAAI Conference on Artificial Intelligence (2018,2022,2023)  
