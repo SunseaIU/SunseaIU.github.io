@@ -28,7 +28,7 @@
 [8]	Xinnan Lin(研究生), Feiwei Qin, **Yong Peng**, Yanli Shao. Fine-Grained Pornographic Image Recognition with Multiple Feature Fusion Transfer Learning. _International Journal of Machine Learning and Cybernetics_, 12, 73-86, 2021.(SCI, IF: 4.377)  
 [9]	Yikai Zhang (本科生), **Yong Peng**, Hongyu Bian, Yuan Ge, Feiwei Qin, Wanzeng Kong. Auto-weighted concept factorization for joint feature map and data representation learning. _Journal of Intelligent & Fuzzy Systems_, 41(1): 69-81, 2021.(SCI, IF: 1.737)    
 [10]	Yuxuan Zhu(研究生), **Yong Peng**, Yang Song, Kenji Ozawa, Wanzeg Kong. RAMST-CNN: A residual and multiscale spatio-temporal convolution neural network for personal identification with EEG. _IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences_, Vol.E104-A, No.2, pp.563-571, 2021.(SCI, IF: 0.423)   
-[11]	秦飞巍，沈希乐，**彭勇**，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。_计算机辅助设计与图形学学报_，33 (7), 1026-1037, 2021. （中文一级学报）  
+[11]	秦飞巍，沈希乐，**彭勇**，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。计算机辅助设计与图形学学报，33 (7), 1026-1037, 2021. （中文一级学报）  
 #### 2020
 [1]	**Yong Peng**, Qingxi Li, Wanzeng Kong, Feiwei Qin, Jianhai Zhang, Andrzej Cichocki. A joint optimization framework to semi-supervised RVFL and ELM networks for efficient data classification. _Applied Soft Computing_, volume 97, Part A, Article ID 106756, 2020.(SCI, IF: 8.263)   
 [2]	**Yong Peng**, Leijie Zhang, Wanzeng Kong, Feiwei Qin, Jianhai Zhang. Joint low-rank representation and spectral regression for robust subspace learning. _Knowledge-Based Systems_, 195, 105723, 2020.(SCI, IF: 8.139)   
@@ -65,4 +65,4 @@
 [1]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.(SCI, IF: 2.577, **Google Citation=54**)  
 [2]	Wei-Long Zheng, Jia-Yi Zhu, **Yong Peng**, Bao-Liang Lu. EEG-based emotion classification using deep belief networks. _IEEE International Conference on Multimedia and Expo_ (ICME), Chengdu, China, July 14-18, pages 1--6, 2014. （CCF B会，**Google Citation=298**）  
 [3]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.(SCI, IF: 8.263, Google Citation=25)   
-[4]	林浒（导师），**彭勇**。面向多目标优化的适应度共享免疫克隆算法。_控制理论与应用_，28（2）：206-214， 2011（中文权威期刊）  
+[4]	林浒（导师），**彭勇**。面向多目标优化的适应度共享免疫克隆算法。控制理论与应用，28（2）：206-214， 2011（中文权威期刊）  
