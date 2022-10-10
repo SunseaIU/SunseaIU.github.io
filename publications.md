@@ -15,7 +15,7 @@
 [9]	Fangyao Shen（研究生）, **Yong Peng**, Guojun Dai, Baoliang Lu, Wanzeng Kong. Coupled projection transfer metric learning for cross-session emotion recognition from EEG. Systems, 10(2), Article ID 47, 2022. (SCI, IF: 2.895)       
 [10] Wenzheng Li (研究生), **Yong Peng**. Transfer EEG emotion recognition by combining semi-supervised regression with bipartite graph label propagation. _Systems_, 10(4), Article ID 111, 2022. (SCI, IF: 2.895)       
 [11]	Senwei Xu（研究生）, Li Zhu, Wanzeng Kong, **Yong Peng**, Hua Hu, Jianting Cao. A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network. _Cognitive Neurodynamics_, 16, 379-389, 2022.(SCI, IF: 3.473)  
-[11]	Meie Fang, Zhuxin Jin, Feiwei Qin, **Yong Peng**, Chao Jiang, Zhigeng Pan. Re-transfer learning and multi-modal learning assisted early diagnosis Alzheimer’s disease. _Multimedia Tools and Applications_, 81(20): 29159-29175, 2022. (SCI, IF: 2.577)    
+[12]	Meie Fang, Zhuxin Jin, Feiwei Qin, **Yong Peng**, Chao Jiang, Zhigeng Pan. Re-transfer learning and multi-modal learning assisted early diagnosis Alzheimer’s disease. _Multimedia Tools and Applications_, 81(20): 29159-29175, 2022. (SCI, IF: 2.577)    
 
 
 #### 2021
