@@ -19,7 +19,10 @@
 > 中国计算机学会人工智能与模式识别专委会通讯委员（2019.08-）  
 > 中国自动化学会（2018--）  
 
-担任以下SCI源期刊审稿人：  
+客座编辑（Guest Editor）：   
+> Sensors专刊：Sensing and Machine-Learning Technologies for Biomedical Applications   
+
+担任以下期刊与会议审稿人：  
 > ACM Transactions on Multimedia Computing Communications and Applications (TOMCCAP)  
 IEEE Transactions on Fuzzy Systems (TFS)   
 IEEE Transactions on Affective Computing (TAFFC)   
@@ -31,9 +34,8 @@ IEEE Transactions on Instrument and Measurement (TIM)
 IEEE Transactions on Computational Social Systems (TCSS)  
 Neural Networks (Elsevier)  
 Pattern Recognition (Elsevier)  
-Applied Soft Computing (Elsevier)  
-
-担任以下国际会议程序委员会委员：  
-> International Joint Conference on Artificial Intelligence (2019,2020)  
-International Conference on Neural Information Processing (2018,2020,2021,2022)  
-AAAI Conference on Artificial Intelligence (2018,2022,2023)  
+Applied Soft Computing (Elsevier)
+IJCAI2019,2020   
+AAAI2018,2022,2023   
+CHI2023   
+ICONIP2018,2020,2021,2022   
