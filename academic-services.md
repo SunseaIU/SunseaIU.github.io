@@ -34,7 +34,7 @@ IEEE Transactions on Instrument and Measurement (TIM)
 IEEE Transactions on Computational Social Systems (TCSS)  
 Neural Networks (Elsevier)  
 Pattern Recognition (Elsevier)  
-Applied Soft Computing (Elsevier)
+Applied Soft Computing (Elsevier)   
 IJCAI2019,2020   
 AAAI2018,2022,2023   
 CHI2023   
