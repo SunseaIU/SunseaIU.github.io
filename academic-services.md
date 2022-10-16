@@ -11,7 +11,8 @@
 > 嘉兴市科技项目评审专家（2019-）  
 
 会员：  
-> IEEE / Signal Processing Society / Computational Intelligence Society (2018--)  
+> IEEE Member (2018--)  
+> IEEE CIS/SPS/I&MS/EMBS/IES Member   
 > Asia-Pacific Neural Networks Society（2017--）  
 > 中国生物医学工程学会高级会员（2022--）  
 > 中国电子学会（2016--）  
