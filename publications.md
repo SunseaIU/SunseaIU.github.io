@@ -19,6 +19,7 @@
 [13] Wenzheng Li (研究生), **Yong Peng**. Transfer EEG emotion recognition by combining semi-supervised regression with bipartite graph label propagation. _Systems_, 10(4), Article ID 111, 2022. (SCI, IF: 2.895)       
 [14]	Senwei Xu（研究生）, Li Zhu, Wanzeng Kong, **Yong Peng**, Hua Hu, Jianting Cao. A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network. _Cognitive Neurodynamics_, 16, 379-389, 2022.(SCI, IF: 3.473)  
 [15]	Meie Fang, Zhuxin Jin, Feiwei Qin, **Yong Peng**, Chao Jiang, Zhigeng Pan. Re-transfer learning and multi-modal learning assisted early diagnosis Alzheimer’s disease. _Multimedia Tools and Applications_, 81(20): 29159-29175, 2022. (SCI, IF: 2.577)    
+[16] 李文政（研究生），王文娟（研究生），**彭勇**，孔万增。联合双映射域适应与图半监督标签估计的脑电情感识别方法。中国生物医学工程学报，专家两轮审毕进入格式修改，2022.   
 
 
 #### 2021
