@@ -16,11 +16,11 @@
 [10]	Ruiqi Guo（研究生）, **Yong Peng**, Wanzeng Kong, and Fan Li. A semi-supervised label distribution learning model with label correlations and data manifold exploration. _Journal of King-Saud University-Computer and Information Sciences_, DOI: 10.1016/j.jksuci.2022.10.008, 2022. (SCI, IF: 8.839)   
 [11]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, and Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. _Neural Computing & Applications_, accepted, 2022.(SCI, IF: 5.102)  
 [12]	Bing Yang, Xueqin Xiang, Wanzeng Kong, **Yong Peng**, and Jinliang Yao. Adaptive multi-task learning using lagrange multiplier for automatic art analysis. _Multimedia Tools and Applications_, 81(3): 3715-3733, 2022. (SCI, IF: 2.577)     
-[13]	Fangyao Shen（研究生）, **Yong Peng**, Guojun Dai, Baoliang Lu, and Wanzeng Kong. Coupled projection transfer metric learning for cross-session emotion recognition from EEG. _Systems_, 10(2), Article ID 47, 2022. (SCI, IF: 2.895)       
-[14] Wenzheng Li (研究生), and **Yong Peng**. Transfer EEG emotion recognition by combining semi-supervised regression with bipartite graph label propagation. _Systems_, 10(4), Article ID 111, 2022. (SCI, IF: 2.895)       
+[13]	Fangyao Shen（研究生）, **Yong Peng**, Guojun Dai, Baoliang Lu, and Wanzeng Kong. Coupled projection transfer metric learning for cross-session emotion recognition from EEG. _Systems_, 10(2), Article ID: 47, 2022. (SCI, IF: 2.895)       
+[14] Wenzheng Li (研究生), and **Yong Peng**. Transfer EEG emotion recognition by combining semi-supervised regression with bipartite graph label propagation. _Systems_, 10(4), Article ID: 111, 2022. (SCI, IF: 2.895)       
 [15]	Senwei Xu（研究生）, Li Zhu, Wanzeng Kong, **Yong Peng**, Hua Hu, and Jianting Cao. A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network. _Cognitive Neurodynamics_, 16, 379-389, 2022.(SCI, IF: 3.473)  
 [16]	Meie Fang, Zhuxin Jin, Feiwei Qin, **Yong Peng**, Chao Jiang, and Zhigeng Pan. Re-transfer learning and multi-modal learning assisted early diagnosis Alzheimer’s disease. _Multimedia Tools and Applications_, 81(20): 29159-29175, 2022. (SCI, IF: 2.577)    
-[17] Ziyuan Chen（本科生）, Shuzhe Duan（本科生）, and **Yong Peng**. EEG-based emotion recognition by retargeted semi-supervided regression with robust weights. _Systems_, in press, 2022. (SCI, IF: 2.895)   
+[17] Ziyuan Chen（本科生）, Shuzhe Duan（本科生）, and **Yong Peng**. EEG-based emotion recognition by retargeted semi-supervided regression with robust weights. _Systems_, 10(6), Article ID: 236, 2022. (SCI, IF: 2.895)   
 [18] 李文政（研究生），王文娟（研究生），**彭勇**，孔万增。联合双映射域适应与图半监督标签估计的脑电情感识别方法。中国生物医学工程学报，录用待刊，2022.   
 
 
