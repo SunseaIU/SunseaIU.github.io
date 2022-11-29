@@ -4,7 +4,7 @@
 # Publications
 
 #### 2022
-[1] **Yong Peng**, Wenjuan Wang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, and Andrzej Cichocki. Joint feature adaptation and graph adaptive label propagation for cross-subject emotion recognition from EEG signals. _IEEE Transactions on Affective Computing_, DOI:10.1109/TAFFC.2022.3189222, 2022. (SCI, IF: 13.990)   
+[1] **Yong Peng**, Wenjuan Wang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, and Andrzej Cichocki. Joint feature adaptation and graph adaptive label propagation for cross-subject emotion recognition from EEG signals. _IEEE Transactions on Affective Computing_, 13(4): 1941-1958, 2022. (SCI, IF: 13.990)   
 [2] **Yong Peng**, Fengzhe Jin, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, and Andrzej Cichocki. OGSSL: a semi-supervised classification model coupled with optimal graph learning for EEG emotion recognition. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 1288-1297, 2022.(SCI, IF:4.528)   
 [3] **Yong Peng**, Yikai Zhang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, and Andrzej Cichocki. S3LRR: a unified model for joint discriminative subspace identification and semisupervised EEG emotion recognition. _IEEE Transactions on Instrumentation and Measurement_, 71, Article ID 2507313, 2022.(SCI, IF: 5.332)  
 [4] **Yong Peng**, Feiwei Qin, Wanzeng Kong, Feiping Nie, Yuan Ge, and Andrzej Cichocki. GFIL: a unified framework for the analysis of features, frequency bands, channels in EEG-based emotion recognition. _IEEE Transactions on Cognitive and Developmental Systems_, 14(3): 935-947, 2022.(SCI, IF: 4.546)       
