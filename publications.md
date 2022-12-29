@@ -34,7 +34,7 @@
 [5] Haowei Jiang（本科生）, Feiwei Qin, Jin Cao, **Yong Peng**, and Yanli Shao. Recurrent Neural Network from Adder’s Perspective: Carry-lookahead RNN. _Neural Networks_, 144, 297-306, 2021.   
 [6]	Wenna Huang（研究生）, **Yong Peng**, Yuan Ge, and Wanzeng Kong. A new kmeans formulation and its generalization achieved by joint spectral embedding and rotation. _PeerJ Computer Science_, 7, Article ID: e450, 2021.  
 [7]	Fangyao Shen（研究生）, **Yong Peng**, Wanzeng Kong, and Guojun Dai. Multi-scale frequency bands ensemble learning for EEG-based emotion recognition. _Sensors_, 21(4), 1262, 2021.   
-[8]	Xinnan Lin(研究生), Feiwei Qin, **Yong Peng**, and Yanli Shao. Fine-Grained Pornographic Image Recognition with Multiple Feature Fusion Transfer Learning. _International Journal of Machine Learning and Cybernetics_, 12, 73-86, 2021. 
+[8]	Xinnan Lin(研究生), Feiwei Qin, **Yong Peng**, and Yanli Shao. Fine-Grained Pornographic Image Recognition with Multiple Feature Fusion Transfer Learning. _International Journal of Machine Learning and Cybernetics_, 12, 73-86, 2021.    
 [9]	Yikai Zhang (本科生), **Yong Peng**, Hongyu Bian, Yuan Ge, Feiwei Qin, and Wanzeng Kong. Auto-weighted concept factorization for joint feature map and data representation learning. _Journal of Intelligent & Fuzzy Systems_, 41(1): 69-81, 2021.    
 [10]	Yuxuan Zhu(研究生), **Yong Peng**, Yang Song, Kenji Ozawa, and Wanzeg Kong. RAMST-CNN: A residual and multiscale spatio-temporal convolution neural network for personal identification with EEG. _IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences_, Vol.E104-A, No.2, pp.563-571, 2021.   
 [11]	秦飞巍，沈希乐，**彭勇**，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。计算机辅助设计与图形学学报，33 (7), 1026-1037, 2021.  
