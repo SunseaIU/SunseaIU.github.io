@@ -31,7 +31,7 @@
 [2]	**Yong Peng**, Xin Zhu, Feiping Nie, Wanzeng Kong, and Yuan Ge. Fuzzy graph clustering. _Information Sciences_, 571: 38-49, 2021.   
 [3]	**Yong Peng**, Yikai Zhang, Feiwei Qin, and Wanzeng Kong. Joint non-negative and fuzzy coding with graph regularization for efficient data clustering. _Egyptian Informatics Journal_, 22(1): 91-100, 2021.   
 [4] Xuanyu Jin（研究生）, Jiajia Tang（研究生）, Xianghao Kong (本科生), **Yong Peng**, Jianting Cao, Qibin Zhao, and Wanzeng Kong. CTNN: a convolutional tensor-train neural network for multi-task brainprint recognition. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 29, 103-112, 2021.   
-[5] Haowei Jiang（本科生）, Feiwei Qin, Jin Cao, **Yong Peng**, and Yanli Shao. Recurrent Neural Network from Adder’s Perspective: Carry-lookahead RNN. _Neural Networks_, 144, 297-306, 2021.
+[5] Haowei Jiang（本科生）, Feiwei Qin, Jin Cao, **Yong Peng**, and Yanli Shao. Recurrent Neural Network from Adder’s Perspective: Carry-lookahead RNN. _Neural Networks_, 144, 297-306, 2021.   
 [6]	Wenna Huang（研究生）, **Yong Peng**, Yuan Ge, and Wanzeng Kong. A new kmeans formulation and its generalization achieved by joint spectral embedding and rotation. _PeerJ Computer Science_, 7, Article ID: e450, 2021.  
 [7]	Fangyao Shen（研究生）, **Yong Peng**, Wanzeng Kong, and Guojun Dai. Multi-scale frequency bands ensemble learning for EEG-based emotion recognition. _Sensors_, 21(4), 1262, 2021.   
 [8]	Xinnan Lin(研究生), Feiwei Qin, **Yong Peng**, and Yanli Shao. Fine-Grained Pornographic Image Recognition with Multiple Feature Fusion Transfer Learning. _International Journal of Machine Learning and Cybernetics_, 12, 73-86, 2021. 
