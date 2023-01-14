@@ -8,7 +8,7 @@
 [2] **Yong Peng**, Keding Chen, Feiping Nie, Bao-Liang Lu, and Wanzeng Kong. Two-dimensional embedded fuzzy data clustering. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2022.3221135, 2022.  
 [3] **Yong Peng**, Honggang Liu, Junhua Li, Jun Huang, Bao-Liang Lu, and Wanzeng Kong. Cross-session emotion recognition by joint label-common and label-specific EEG features exploration. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, DOI:10.1109/TNSRE.2022.3233109, 2022.[[Supplementray Material]](Supplementary Material.pdf)      
 [4] Jiajia Tang（研究生）, Dongjun Liu（研究生）, Xuanyu Jin（研究生）, **Yong Peng**, Qibin Zhao, Yu Ding, and Wanzeng Kong. BAFN: bi-direction attention based fusion network for multimodal sentiment analysis. _IEEE Transactions on Circuits and Systems for Video Technology_, DOI:10.1109/TCSVT.2022.3218018, 2022.   
-[5]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, and Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. _Neural Computing & Applications_, DOI:10.1007/200521-022-08190-5, 2022.    
+[5]	Jin Cao, Ran Xu, Xinnan Lin, Feiwei Qin, **Yong Peng**, and Yanli Shao. Adaptive receptive field U-shaped temporal convolutional network for vulgar action detection. _Neural Computing & Applications_, DOI:10.1007/200521-022-08190-5, 2023.    
 [6] 李文政（研究生），王文娟（研究生），**彭勇**，孔万增。联合双映射域适应与图半监督标签估计的脑电情感识别方法。中国生物医学工程学报，录用待刊，2022.   
 
 #### 2022
