@@ -4,7 +4,7 @@
 # Publications
 
 #### In press
-[1] **Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, in press, 2023.   
+[1] **Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2023.3243945, 2023.   
 [2] **Yong Peng**, Honggang Liu, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, and Andrzej Cichocki. Joint EEG feature transfer and semi-supervised cross-subject emotion recognition. _IEEE Transactions on Industrial Informatics_, DOI:10.1109/TII.2022.3217120, 2022.   
 [3] **Yong Peng**, Keding Chen, Feiping Nie, Bao-Liang Lu, and Wanzeng Kong. Two-dimensional embedded fuzzy data clustering. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2022.3221135, 2022.       
 [4] Jiajia Tang（研究生）, Dongjun Liu（研究生）, Xuanyu Jin（研究生）, **Yong Peng**, Qibin Zhao, Yu Ding, and Wanzeng Kong. BAFN: bi-direction attention based fusion network for multimodal sentiment analysis. _IEEE Transactions on Circuits and Systems for Video Technology_, DOI:10.1109/TCSVT.2022.3218018, 2022.   
