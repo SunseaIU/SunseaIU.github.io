@@ -54,7 +54,7 @@
 [4]	**Yong Peng**, Rixin Tang, Wanzeng Kong, Jianhai Zhang, Feiping Nie, and Andrzej Cichocki. Joint structured graph learning and clustering via concept factorization. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Brighton, UK, May 12-17, pages 3162-3166, 2019.    
 #### 2018
 [1]	**Yong Peng**, Wanzeng Kong, Feiwei Qin, and Feiping Nie. Manifold adaptive kernelized low-rank representation for semi-supervised image classification. _Complexity_, Volume 2018 (2018), Article ID 2857594, 2018.    
-[2]	Feiwei Qin, Nannan Gao, **Yong Peng**, Zizhao Wu, Shuying Shen, and Artur Grudtsin. Fine-grained leukocyte classification with deep residual learning for microscopic images. _Computer Methods and Programs in Biomedicine_, 162: 243-252, 2018.(**Google Citation=99**)   
+[2]	Feiwei Qin, Nannan Gao, **Yong Peng**, Zizhao Wu, Shuying Shen, and Artur Grudtsin. Fine-grained leukocyte classification with deep residual learning for microscopic images. _Computer Methods and Programs in Biomedicine_, 162: 243-252, 2018.   
 [3]	Feiwei Qin, Haibing Xia, **Yong Peng**, and Zizhao Wu. Integrated modeling, simulation and visualization for nano materials. _Complexity_, Volume 2018 (2018), Article ID 5083247.   
 [4]	Wanzeng Kong, Shijie Guo, Yanfang Long, **Yong Peng**, Hong Zeng, Xinyu Zhang, and Jianhai Zhang. Weighted extreme learning machine for P300 detection with application to brain computer interface. _Journal of Ambient Intelligence and Humanized Computing_, 10.1007/s12652-018-0840-1, May 2018.  
 [5]	**Yong Peng**, Rixin Tang, Wanzeng Kong, Feiwei Qin, and Feiping Nie. Parallel vector field regularized non-negative matrix factorization for image representation. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Calgary, Canada, April 15-20, pages 2216-2220, 2018.    
@@ -72,7 +72,7 @@
 #### 2015
 [1]	**Yong Peng**, Suhang Wang, Xianzhong Long, and Bao-Liang Lu. Discriminative graph regularized extreme learning machine and its application to face recognition. _Neurocomputing_,149: 340--353, 2015.  
 [2]	**Yong Peng**, Bao-Liang Lu, and Suhang Wang. Enhanced low rank representation via sparse manifold adaption for semi-supervised learning. _Neural Networks_, 65: 1--17, 2015.     
-[3]	**Yong Pen**g, and Bao-Liang Lu. Hybrid learning clonal selection algorithm. _Information Sciences_, 296: 128--146, 2015.(**Google Citation=39**)   
+[3]	**Yong Pen**g, and Bao-Liang Lu. Hybrid learning clonal selection algorithm. _Information Sciences_, 296: 128--146, 2015.   
 [4]	**Yong Peng**, Xianzhong Long, and Bao-Liang Lu. Graph based semi-supervised learning via structure preserving low rank representation. _Neural Processing Letters_, 41(3): 389--406,2015.   
 #### 2014 & 以前
 [1]	Xianzhong Long, Hongtao Lu, **Yong Peng**, and Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.  
