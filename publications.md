@@ -47,7 +47,6 @@
 [J12]	**Yong Peng**, Wanzeng Kong, and Bing Yang. Orthogonal extreme learning machine for image classification. _Neurocomputing_, 266: 458-464, 2017.   
 [J11]	**Yong Peng**, and Bao-Liang Lu. Robust structured sparse representation via half-quadratic optimization for face recognition. _Multimedia Tools and Applications_,76(6): 8859-8880, 2017.   
 [J10]	Zhi-Jie Wang, Xiao Lin, Mei-E Fang, Bin Yao, **Yong Peng**, Haibin Guan, and MinyiGuo. RE2L: An efficient output-sensitive algorithm for computing boolen operations on circular-arc polygons and its applications. _Computer-Aided Design_, 83(2):1--14, 2017.   
-#### 2016
 [J9]	**Yong Peng**, and Bao-Liang Lu. Discriminative manifold extreme learning machine and applications to image and EEG signal classification. _Neurocomputing_, 174:265--277, 2016.   
 [J8]	**Yong Peng**, Wei-Long Zheng, and Bao-Liang Lu. An unsupervised discriminative extreme learning machine and its applications to data clustering. _Neurocomputing_, 174: 250--264, 2016.   
 [J7]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Xianzhong Wang, and Shaokun Feng. Image classification based on improved VLAD. _Multimedia Tools and Applications_,75(10), 5533--5555, 2016.   
