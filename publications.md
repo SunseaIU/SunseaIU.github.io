@@ -5,7 +5,7 @@
    
 
 #### Journal Papers
-[pre3] Yikai Zhang, **Yong Peng**, Junhua Li, and Wanzeng Kong. SIFIAE: an adaptive emotion recognition model with EEG feature-label inconsistency consideration. _Journal of Neuroscience Methods_, in press, 2023.   
+[pre3] Yikai Zhang, **Yong Peng**, Junhua Li, and Wanzeng Kong. SIFIAE: an adaptive emotion recognition model with EEG feature-label inconsistency consideration. _Journal of Neuroscience Methods_, DOI:10.1016/j.jneumeth.2023.109909, 2023.   
 [pre2] **Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2023.3243945, 2023.   
 [pre1] **Yong Peng**, Keding Chen, Feiping Nie, Bao-Liang Lu, and Wanzeng Kong. Two-dimensional embedded fuzzy data clustering. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2022.3221135, 2022.       
 
