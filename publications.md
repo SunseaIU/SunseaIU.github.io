@@ -5,11 +5,11 @@
    
 
 #### Journal Papers
-[pre4] Fengzhe Jin, **Yong Peng**, Feiwei Qin, Junhua Li, and Wanzeng Kong. Graph adaptive semi-supervised discriminative subspace learning for EEG emotion recognition. _Journal of King Saud University-Computer and Information Sciences_, DOI: 10.1016/j.jksuci.2023.101648, 2023.   
-[pre3] Yikai Zhang, **Yong Peng**, Junhua Li, and Wanzeng Kong. SIFIAE: an adaptive emotion recognition model with EEG feature-label inconsistency consideration. _Journal of Neuroscience Methods_, DOI:10.1016/j.jneumeth.2023.109909, 2023.   
+[pre3] Fengzhe Jin, **Yong Peng**, Feiwei Qin, Junhua Li, and Wanzeng Kong. Graph adaptive semi-supervised discriminative subspace learning for EEG emotion recognition. _Journal of King Saud University-Computer and Information Sciences_, DOI: 10.1016/j.jksuci.2023.101648, 2023.   
 [pre2] **Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2023.3243945, 2023.   
 [pre1] **Yong Peng**, Keding Chen, Feiping Nie, Bao-Liang Lu, and Wanzeng Kong. Two-dimensional embedded fuzzy data clustering. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2022.3221135, 2022.       
 
+[J51] Yikai Zhang, **Yong Peng**, Junhua Li, and Wanzeng Kong. SIFIAE: an adaptive emotion recognition model with EEG feature-label inconsistency consideration. _Journal of Neuroscience Methods_, 395, Article ID 109909, 2023.   
 [J50] **Yong Peng**, Honggang Liu, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, and Andrzej Cichocki. Joint EEG feature transfer and semi-supervised cross-subject emotion recognition. _IEEE Transactions on Industrial Informatics_, 19(7): 8104-8115, 2023.  
 [J49] **Yong Peng**, Honggang Liu, Junhua Li, Jun Huang, Bao-Liang Lu, and Wanzeng Kong. Cross-session emotion recognition by joint label-common and label-specific EEG features exploration. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 31, 759-768, 2023.[[Supplementray Material]](Supplementary Material.pdf)   
 [J48] Jiajia Tang, Dongjun Liu, Xuanyu Jin, **Yong Peng**, Qibin Zhao, Yu Ding, and Wanzeng Kong. BAFN: bi-direction attention based fusion network for multimodal sentiment analysis. _IEEE Transactions on Circuits and Systems for Video Technology_, 33(4): 1966-1978, 2023.   
