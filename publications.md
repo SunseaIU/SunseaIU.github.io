@@ -5,7 +5,7 @@
    
 
 #### Journal Papers
-[pre4] Ben Chen, Feiwei Qin, Yanli Shao, Jin Cao, **Yong Peng**, and Ruiquan Ge. Fine-grained imbalanced leukocyte classification with global-local attention transformer. Journal of King Saud University-Computer and Information Sciences, in press, 2023.    
+[pre4] Ben Chen, Feiwei Qin, Yanli Shao, Jin Cao, **Yong Peng**, and Ruiquan Ge. Fine-grained imbalanced leukocyte classification with global-local attention transformer. _Journal of King Saud University-Computer and Information Sciences_, in press, 2023.    
 [pre3] Fengzhe Jin, **Yong Peng**, Feiwei Qin, Junhua Li, and Wanzeng Kong. Graph adaptive semi-supervised discriminative subspace learning for EEG emotion recognition. _Journal of King Saud University-Computer and Information Sciences_, DOI: 10.1016/j.jksuci.2023.101648, 2023.   
 [pre2] **Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2023.3243945, 2023.   
 [pre1] **Yong Peng**, Keding Chen, Feiping Nie, Bao-Liang Lu, and Wanzeng Kong. Two-dimensional embedded fuzzy data clustering. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2022.3221135, 2022.       
