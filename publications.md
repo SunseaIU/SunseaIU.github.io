@@ -4,10 +4,10 @@
 # Publications
    
 
-#### Journal Papers
-[pre2] Ben Chen, Feiwei Qin, Yanli Shao, Jin Cao, **Yong Peng**, and Ruiquan Ge. Fine-grained imbalanced leukocyte classification with global-local attention transformer. _Journal of King Saud University-Computer and Information Sciences_, DOI:10.1016/j.jksuci.2023.101661, 2023.       
+#### Journal Papers    
 [pre1] **Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2023.3243945, 2023.   
 
+[54] Ben Chen, Feiwei Qin, Yanli Shao, Jin Cao, **Yong Peng**, and Ruiquan Ge. Fine-grained imbalanced leukocyte classification with global-local attention transformer. _Journal of King Saud University-Computer and Information Sciences_, 35(8), Article ID 101661, 2023.
 [J53] **Yong Peng**, Keding Chen, Feiping Nie, Bao-Liang Lu, and Wanzeng Kong. Two-dimensional embedded fuzzy data clustering. _IEEE Transactions on Emerging Topics in Computational Intelligence_, 7(4):1263-1275, 2023.       
 [J52] Fengzhe Jin, **Yong Peng**, Feiwei Qin, Junhua Li, and Wanzeng Kong. Graph adaptive semi-supervised discriminative subspace learning for EEG emotion recognition. _Journal of King Saud University-Computer and Information Sciences_, 35(8), Article ID 101648, 2023.   
 [J51] Yikai Zhang, **Yong Peng**, Junhua Li, and Wanzeng Kong. SIFIAE: an adaptive emotion recognition model with EEG feature-label inconsistency consideration. _Journal of Neuroscience Methods_, 395, Article ID 109909, 2023.   
