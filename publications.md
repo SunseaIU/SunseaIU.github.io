@@ -5,6 +5,7 @@
    
 
 #### Journal Papers    
+[pre2] Haiting Jiang, Fangyao Shen, Lina Chen, **Yong Peng**, Hongjie Guo, and Hong Gao. Joint domain symmetry and predictive balance for cross-dataset EEG emotion recognition. _Journal of Neuroscience Methods_, DOI: 10.1016/j.jneumeth.2023.109978, 2023.   
 [pre1] **Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2023.3243945, 2023.   
 
 [54] Ben Chen, Feiwei Qin, Yanli Shao, Jin Cao, **Yong Peng**, and Ruiquan Ge. Fine-grained imbalanced leukocyte classification with global-local attention transformer. _Journal of King Saud University-Computer and Information Sciences_, 35(8), Article ID 101661, 2023.   
