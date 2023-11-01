@@ -8,7 +8,9 @@
 > 国家自然科学基金通讯评审专家（2017--）  
 > 浙江省科技厅项目评审技术专家（2017--）   
 > 广东省基础与应用基础项目评审专家（2021-）  
-> 嘉兴市科技项目评审专家（2019-）  
+> 嘉兴市科技项目评审专家（2019-）   
+> 吴文俊人工智能科学技术奖通讯评审专家（2023-）   
+> 教育部重大人才工程青年项目通讯评审专家（2023-）
 
 会员：  
 > IEEE Member (2018--)  
@@ -18,10 +20,7 @@
 > 中国电子学会（2016--）  
 > 中国计算机学会（2016--）  
 > 中国计算机学会人工智能与模式识别专委会通讯委员（2019.08-）  
-> 中国自动化学会（2018--）  
-
-客座编辑（Guest Editor）：   
-> Sensors专刊：Sensing and Machine-Learning Technologies for Biomedical Applications   
+> 中国自动化学会（2018--）    
 
 担任以下期刊与会议审稿人：  
 > ACM Transactions on Multimedia Computing Communications and Applications (TOMCCAP)  
