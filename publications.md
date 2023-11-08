@@ -74,6 +74,6 @@
 [C1]	Wei-Long Zheng, Jia-Yi Zhu, **Yong Peng**, and Bao-Liang Lu. EEG-based emotion classification using deep belief networks. _IEEE International Conference on Multimedia and Expo_ (ICME), Chengdu, China, July 14-18, pages 1--6, 2014.  
   
 #### 中文期刊   
-[3] 李文政，王文娟，**彭勇**，孔万增。联合双映射域适应与图半监督标签估计的脑电情感识别方法。中国生物医学工程学报，2022.  
+[3] 李文政，王文娟，**彭勇**，孔万增。联合双映射域适应与图半监督标签估计的脑电情感识别方法。中国生物医学工程学报，42(5): 529-541, 2023.  
 [2] 秦飞巍，沈希乐，**彭勇**，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。计算机辅助设计与图形学学报，33 (7), 1026-1037, 2021.  
 [1] 林浒，**彭勇**。面向多目标优化的适应度共享免疫克隆算法。控制理论与应用，28（2）：206-214， 2011.  
