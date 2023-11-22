@@ -5,7 +5,7 @@
    
 
 #### Journal Papers    
-[pre2] Li Zhu, Youyang Liu, Riheng Liu, **Yong Peng***, Junhua Li, and Wanzeng Kong. EEG decoding in multi-brain motor imagery with coupling feature extraction and few-shot learning. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, accepted, 2023.   
+[pre2] Li Zhu, Youyang Liu, Riheng Liu, **Yong Peng***, Junhua Li, and Wanzeng Kong. EEG decoding in multi-brain motor imagery with coupling feature extraction and few-shot learning. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, DOI:10.1109/TNSRE.2023.3336356, 2023.   
 [pre1] **Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI:10.1109/TETCI.2023.3243945, 2023.   
 
 [55] Haiting Jiang, Fangyao Shen, Lina Chen, **Yong Peng**, Hongjie Guo, and Hong Gao. Joint domain symmetry and predictive balance for cross-dataset EEG emotion recognition. _Journal of Neuroscience Methods_, 400, Article ID 109978, 2023.    
