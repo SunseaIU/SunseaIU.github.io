@@ -5,7 +5,7 @@
    
 
 #### Journal Papers    
-[J58] Kang Yan, Feiwei Qin, Ruiquan Ge, Changmiao Wang, **Yong Peng**, Kai Zhang. LKFormer: large kernel transformer for infrared image super-resolution. _Multimedia Tools and Applications_, in press, 2023.   
+[J58] Feiwei Qin, Kang Yan, Changmiao Wang, Ruiquan Ge, **Yong Peng**, Kai Zhang. LKFormer: large kernel transformer for infrared image super-resolution. _Multimedia Tools and Applications_, in press, 2023.   
 [J57] Li Zhu, Youyang Liu, Riheng Liu, **Yong Peng***, Jianting Cao, Junhua Li, and Wanzeng Kong. EEG decoding in multi-brain motor imagery with coupling feature extraction and few-shot learning. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, vol. 31, pages 4683-4692, 2023.   
 [J56] **Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, 7(6): 1687-1701, 2023.   
 [J55] Haiting Jiang, Fangyao Shen, Lina Chen, **Yong Peng**, Hongjie Guo, and Hong Gao. Joint domain symmetry and predictive balance for cross-dataset EEG emotion recognition. _Journal of Neuroscience Methods_, 400, Article ID 109978, 2023.    
