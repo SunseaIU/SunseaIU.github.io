@@ -2,7 +2,8 @@
 ---
 
 # Publications
-   
+
+[J60] Yifei Chen, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Feiwei Qin, **Yong Peng**, Yu Gao. Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases. _Computers in Biology and Medicine_, in press, 2024.   
 [C11] Chengxi Zhu, **Yong Peng**, Yinfeng Fang, and Wanzeng Kong. Label rectified and graph adaptive semi-supervised regression for electrode shifted gesture recognition. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages xxxx-xxxx, 2024.   
 [C10] Fangyao Shen, Zehao Zhang, **Yong Peng**, Hongjie Guo, Lina Chen, Hong Gao. Self-supervised learning for sleep stage classification with temporal augmentation and false negative suppression. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages xxxx-xxxx, 2024.   
 [C9] Yuhang Ming, Jian Ma, Xingrui Yang, Weichen Dai, **Yong Peng**, Wanzeng Kong. AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages xxxx-xxxx, 2024.   
