@@ -13,7 +13,8 @@
 > 教育部重大人才工程青年项目通讯评审专家（2023-）
 
 会员：  
-> IEEE Member (2018--)  
+> IEEE Member (2018.01--)  
+> IEEE Senior Member (2024.01--)  
 > IEEE CIS/SPS/I&MS/EMBS/IES Member   
 > Asia-Pacific Neural Networks Society（2017--）  
 > 中国生物医学工程学会高级会员（2022--）  
