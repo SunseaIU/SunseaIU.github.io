@@ -4,7 +4,7 @@
 # Publications
 
 [J62] Bing Yang, Xueqin Xiang, Wangzeng Kong, Jianhai Zhang, **Yong Peng**. DMF-GAN: Deep multimodal fusion generative adversarial networks for text-to-image synthesis. _IEEE Transactions on Multimedia_, DOI: 10.1109/TMM.2024.3358086, 2024.   
-[J61] Xing Li, Yikai Zhang, **Yong Peng**, and Wanzeng Kong. Enhanced performance of EEG-based brain-computer interfaces by joint sample and feature importance assessment. _Health Information Science and Systems_, in press, 2024.   
+[J61] Xing Li, Yikai Zhang, **Yong Peng**, and Wanzeng Kong. Enhanced performance of EEG-based brain-computer interfaces by joint sample and feature importance assessment. _Health Information Science and Systems_, DOI: 10.1007/s13755-024-00271-0, 2024.   
 [J60] Yifei Chen, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Feiwei Qin, **Yong Peng**, and Yu Gao. Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases. _Computers in Biology and Medicine_, DOI: 10.1016/j.compbiomed.2024.107917, 2024.   
 [C11] Chengxi Zhu, **Yong Peng**, Yinfeng Fang, and Wanzeng Kong. Label rectified and graph adaptive semi-supervised regression for electrode shifted gesture recognition. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages xxxx-xxxx, 2024.   
 [C10] Fangyao Shen, Zehao Zhang, **Yong Peng**, Hongjie Guo, Lina Chen, and Hong Gao. Self-supervised learning for sleep stage classification with temporal augmentation and false negative suppression. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages xxxx-xxxx, 2024.   
