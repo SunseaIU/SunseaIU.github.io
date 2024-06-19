@@ -2,7 +2,7 @@
 ---
 
 # Publications
-[65]	Xuanyu Jin, Xinyu Yang, Wanzeng Kong, Li Zhu, Jiajia Tang, **Yong Peng**, Yu Ding, Qibin Zhao. TSFAN: tensorized spatial-frequency attention network with domain adaptation for cross-session EEG-based biometric recognition. _Journal of Neural Engineering_, in press, 2024.   
+[65]	Xuanyu Jin, Xinyu Yang, Wanzeng Kong, Li Zhu, Jiajia Tang, **Yong Peng**, Yu Ding, Qibin Zhao. TSFAN: tensorized spatial-frequency attention network with domain adaptation for cross-session EEG-based biometric recognition. _Journal of Neural Engineering_, DOI:10.1088/1741-2552/ad5761, 2024.   
 [64]	Honggang Liu, Xuanyu Jin, Dongjun Liu, Wanzeng Kong, Jiajia Tang, **Yong Peng**. Affective EEG-based cross-session person identification using hierarchical graph embedding. _Cognitive Neurodynamics_, DOI:10.1007/s11571-024-10132-x, 2024.   
 [63]	Bowen Pang, **Yong Peng**, Jian Gao, Wanzeng Kong. Semi-supervised bipartite graph construction with active EEG sample selection for emotion recognition. _Medical & Biological Engineering & Computing_, DOI: 10.1007/s11517-024-03094-z, 2024.   
 [C11] Chengxi Zhu, **Yong Peng**, Yinfeng Fang, and Wanzeng Kong. Label rectified and graph adaptive semi-supervised regression for electrode shifted gesture recognition. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages 1896-1900, 2024.   
