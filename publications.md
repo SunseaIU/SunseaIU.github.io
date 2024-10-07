@@ -70,7 +70,7 @@
 [67]	Xianzhong Long, Hongtao Lu, Yong Peng, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.      
 [68]	Yong Peng, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.   
 
-**中文权威/一级期刊论文列表**：
+**中文权威/一级期刊论文列表**：   
 [1]	李文政，王文娟，彭勇*，孔万增。联合双映射域适应与图半监督标签估计的脑电情感识别方法。中国生物医学工程学报，42(5): 529-541, 2023.   
 [2]	秦飞巍，沈希乐，彭勇，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。计算机辅助设计与图形学学报，33 (7): 1026-1037, 2021.   
 [3]	林浒，彭勇*。面向多目标优化的适应度共享免疫克隆算法。控制理论与应用，28（2）：206-214， 2011.
