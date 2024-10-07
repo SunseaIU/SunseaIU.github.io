@@ -19,7 +19,7 @@ Asia-Pacific Neural Networks Society（2017--）
 浙江省计算机学会（2017--）   
 浙江省信号处理学会（2017--）   
 
-**担任以下SCI源期刊等审稿人**：
+**担任以下SCI源期刊等审稿人**：   
 ACM Transactions on Multimedia Computing Communications and Applications (TOMCCAP)   
 IEEE Transactions on Affective Computing (TAFFC)   
 IEEE Transactions on Fuzzy Systems (TFS)   
