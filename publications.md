@@ -38,7 +38,7 @@
 [37]	Meie Fang, Zhuxin Jin, Feiwei Qin, **Yong Peng**, Chao Jiang, Zhigeng Pan. Re-transfer learning and multi-modal learning assisted early diagnosis Alzheimer’s disease. _Multimedia Tools and Applications_, 81(20): 29159-29175, 2022.   
 [38]	Senwei Xu, Li Zhu, Wanzeng Kong, **Yong Peng**, Hua Hu, Jianting Cao. A novel classification method for EEG-based motor imagery with narrow band spatial filters and deep convolutional neural network. _Cognitive Neurodynamics_, 16, 379-389, 2022.    
 [39]	**Yong Peng**, Wanzeng Kong, Feiwei Qin, Feiping Nie, Jinglong Fang, Bao-Liang Lu, Andrzej Cichocki. Self-weighted semi-supervised classification for joint EEG-based emotion recognition and affective activation patterns mining. _IEEE Transactions on Instrumentation and Measurement_, 70, Article ID 2517111, 2021.    
-[40]	**Yong Peng**, Xin Zhu, Feiping Nie, Wanzeng Kong, Yuan Ge. Fuzzy graph clustering. _Information Science_s, 571: 38-49, 2021.   
+[40]	**Yong Peng**, Xin Zhu, Feiping Nie, Wanzeng Kong, Yuan Ge. Fuzzy graph clustering. _Information Sciences_, 571: 38-49, 2021.   
 [41]	**Yong Peng**, Yikai Zhang, Feiwei Qin, Wanzeng Kong. Joint non-negative and fuzzy coding with graph regularization for efficient data clustering. _Egyptian Informatics Journal_, 22(1): 91-100, 2021.   
 [42]	Wenna Huang, **Yong Peng**, Yuan Ge, Wanzeng Kong. A new kmeans formulation and its generalization achieved by joint spectral embedding and rotation. _PeerJ Computer Science_, 7, Article ID: e450, 2021.   
 [43]	Yikai Zhang, **Yong Peng**, Hongyu Bian, Yuan Ge, Feiwei Qin, Wanzeng Kong. Auto-weighted concept factorization for joint feature map and data representation learning. _Journal of Intelligent & Fuzzy Systems_, 41(1): 69-81, 2021.   
