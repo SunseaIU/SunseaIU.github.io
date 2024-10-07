@@ -62,8 +62,8 @@
 [61]	**Yong Peng**, Wei-Long Zheng, Bao-Liang Lu. An unsupervised discriminative extreme learning machine and its applications to data clustering. _Neurocomputing_, 174: 250--264, 2016.   
 [62]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Xianzhong Wang, Shaokun Feng. Image classification based on improved VLAD. _Multimedia Tools and Applications_,75(10), 5533--5555, 2016.   
 [63]	**Yong Peng**, Suhang Wang, Xianzhong Long, Bao-Liang Lu. Discriminative graph regularized extreme learning machine and its application to face recognition. _Neurocomputing_,149: 340--353, 2015.（ESI高被引论文）   
-[64]	**Yong Peng**, Bao-Liang Lu, Suhang Wang. Enhanced low rank representation via sparse manifold adaption for semi-supervised learning. _Neural Networks_, 65: 1--17, 2015. 
-[65]	**Yong Peng**, Bao-Liang Lu. Hybrid learning clonal selection algorithm. _Information Sciences_, 296: 128--146, 2015. 
+[64]	**Yong Peng**, Bao-Liang Lu, Suhang Wang. Enhanced low rank representation via sparse manifold adaption for semi-supervised learning. _Neural Networks_, 65: 1--17, 2015.   
+[65]	**Yong Peng**, Bao-Liang Lu. Hybrid learning clonal selection algorithm. _Information Sciences_, 296: 128--146, 2015.   
 [66]	**Yong Peng**, Xianzhong Long, Bao-Liang Lu. Graph based semi-supervised learning via structure preserving low rank representation. _Neural Processing Letters_, 41(3): 389--406,2015.    
 [67]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.      
 [68]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.   
