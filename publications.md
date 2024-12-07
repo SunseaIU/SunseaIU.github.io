@@ -71,7 +71,7 @@
 [69]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.      
 [70]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.
 
-**国际会议论文列表**：
+**国际会议论文列表**：    
 [1]	Fangyao Shen, Zehao Zhang, **Yong Peng**, Hongjie Guo, Lina Chen, Hong Gao. Self-supervised learning for sleep stage classification with temporal augmentation and false negative suppression. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages 1761-1765, 2024.   
 [2]	Chengxi Zhu, **Yong Peng**, Yinfeng Fang, and Wanzeng Kong. Label rectified and graph adaptive semi-supervised regression for electrode shifted gesture recognition. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages 1896-1900, 2024.   
 [3]	Yuhang Ming, Jian Ma, Xingrui Yang, Weichen Dai, **Yong Peng**, Wanzeng Kong. AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages 4030-4034, 2024.   
