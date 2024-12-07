@@ -3,7 +3,7 @@
 [1]	Shijie Liu, Kang Yan, Feiwei Qin, Ruiquan Ge, **Yong Peng**, Jie Huang, Nenggan Zheng, Yongquan Zhang, Changmiao Wang. LA-YOLO: location refinement and adjacent feature fusion based infrared small target detection. _CAAI Transactions on Intelligence Technology_, accepted, 2025.   
 [2]	Yinfeng Fang, Lingfeng Wu, Xixia Yu, **Yong Peng**, Yuxing Wang, Zhaojie Zhu. A hybrid sEMG-FMG fusion approach under muscle fatigue using cascade fuzzy forest. _IEEE Transactions on Fuzzy Systems_, DOI: 10.1109/TFUZZ.2024.3505260, 2024.   
 [3]	Diankun Chen, Feiwei Qin, Ruiquan Ge, **Yong Peng**, Changmiao Wang. ID-UNet: a densly connected Unet architecture for infrared small target segmentation. _Alexandria Engineering Journal_, vol. 110, 234-244, 2025.   
-[4]	Bowen Pang, **Yong Peng**, Jian Gao, Wanzeng Kong. Semi-supervised bipartite graph construction with active EEG sample selection for emotion recognition. _Medical & Biological Engineering & Computing_, vol. 62, 2805–2824, 2024.(**Editor's Choice Article**)    
+[4]	Bowen Pang, **Yong Peng**, Jian Gao, Wanzeng Kong. Semi-supervised bipartite graph construction with active EEG sample selection for emotion recognition. _Medical & Biological Engineering & Computing_, vol. 62, 2805–2824, 2024. (**Editor's Choice Article**)    
 [5]	Xing Li, Yikai Zhang, **Yong Peng**, Wanzeng Kong. Enhanced performance of EEG-based brain-computer interfaces by joint sample and feature importance assessment. _Health Information Science and Systems_, 12(1): 9, 2024.    
 [6]	Keding Chen, **Yong Peng**, Feiping Nie, and Wanzeng Kong. Soft label guided unsupervised discriminative sparse subspace feature selection. _Journal of Classification_, 41(1): 129-157, 2024.    
 [7]	Ting Wang, Jianpeng Tang, Xugang Xi, **Yong Peng**, Maofeng Wang, Lihua Li. Corticomuscular coupling analysis in stroke rehabilitation based on variational mode decomposition-transfer entropy. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, DOI: 10.1109/TNSRE.2024.3436077, 2024.    
@@ -70,6 +70,19 @@
 [68]	**Yong Peng**, Xianzhong Long, Bao-Liang Lu. Graph based semi-supervised learning via structure preserving low rank representation. _Neural Processing Letters_, 41(3): 389--406,2015.    
 [69]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.      
 [70]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.
+
+**国际会议论文列表**：
+[1]	Fangyao Shen, Zehao Zhang, **Yong Peng**, Hongjie Guo, Lina Chen, Hong Gao. Self-supervised learning for sleep stage classification with temporal augmentation and false negative suppression. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages 1761-1765, 2024.   
+[2]	Chengxi Zhu, **Yong Peng**, Yinfeng Fang, and Wanzeng Kong. Label rectified and graph adaptive semi-supervised regression for electrode shifted gesture recognition. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages 1896-1900, 2024.   
+[3]	Yuhang Ming, Jian Ma, Xingrui Yang, Weichen Dai, **Yong Peng**, Wanzeng Kong. AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Seoul, Korea, April 14-19, pages 4030-4034, 2024.   
+[4]	**Yong Peng**, Qingxi Li, Wanzeng Kong, Jianhai Zhang, Bao-Liang Lu, Andrzej Cichocki. Joint semi-supervised feature auto-weighting and classification model for EEG-based cross-subject sleep quality evaluation. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Barcelona, Spain, May 4-8, pages 946-950, 2020.   
+[5]	**Yong Peng**, Leijie Zhang, Wanzeng Kong, Feiping Nie, Andrzej Cichocki. Joint structured graph learning and unsupervised feature selection. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Brighton, UK, May 12-17, pages 3572-3576, 2019.   
+[6]	**Yong Peng**, Yanfang Long, Feiwei Qin, Wanzeng Kong, Feiping Nie, Andrzej Cichocki. Flexible non-negative matrix factorization with adaptively learned graph regularization. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Brighton, UK, May 12-17, pages 3107-3111, 2019.   
+[7]	**Yong Peng**, Rixin Tang, Wanzeng Kong, Jianhai Zhang, Feiping Nie, Andrzej Cichocki. Joint structured graph learning and clustering via concept factorization. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Brighton, UK, May 12-17, pages 3162-3166, 2019.   
+[8]	Jianhai Zhang, Shaokai Zhao, Guodong Yang, Jiajia Tang, Tao Zhang, **Yong Peng**, Wanzeng Kong, Emotional-state brain network analysis revealed by minimum spanning tree using EEG signals. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), Madrid, Spain, December 3-6, pages 1045-1048, 2018.   
+[9]	Jianhai Zhang, Na Zhang, Jiajia Tang, Jianting Cao, Wanzeng Kong, **Yong Peng**. A new method for brain death diagnosis based on phase synchronization analysis with EEG. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), Madrid, Spain, December 3-6, pages 1135-1138, 2018.    
+[10]	Wei-Long Zheng, Jia-Yi Zhu, **Yong Peng**, Bao-Liang Lu. EEG-based emotion classification using deep belief networks. _IEEE International Conference on Multimedia and Expo_ (ICME), Chengdu, China, July 14-18, pages 1--6, 2014.（**引用400+次**）
+
 
 
 **中文权威/一级期刊论文列表**：   
