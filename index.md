@@ -5,7 +5,7 @@
   <tr>
     <td width="75%">
       <h1>彭勇（Peng Yong）</h1>
-      <p><b>教授</b></p>
+      <p><b>教授、博士生导师</b></p>
       <p><b>杭州电子科技大学计算机学院</b></p>
       <p><b>邮箱：yongpeng@hdu.edu.cn</b></p>
       <p><b>QQ：491743196</b></p>
