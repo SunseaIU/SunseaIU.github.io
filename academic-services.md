@@ -21,9 +21,9 @@ Asia-Pacific Neural Networks Society（2017--）
 浙江省信号处理学会（2017--）   
 
 **期刊编委与审稿人**：   
-Associate Editor:
+Associate Editor:   
 J. King Saud Univ. Comput. Inf. Sci. ( Springer，SCI二区，影响因子5.2)    
-Reviewer:
+Reviewer:   
 ACM Transactions on Multimedia Computing Communications and Applications (TOMCCAP)   
 IEEE Transactions on Affective Computing (TAFFC)   
 IEEE Transactions on Fuzzy Systems (TFS)   
