@@ -2,6 +2,7 @@
 国家自然科学基金通讯评审专家（2017--）   
 广东省基础与应用基础项目评审专家（2021-）   
 河北省科技计划评审专家（2024-）   
+四川省自然科学基金评审专家（2024-）
 嘉兴市科技计划项目评审专家（2019-）   
 金华市科技计划项目评审专家（2021-）   
 吴文俊人工智能科学技术奖通讯评审专家（2023-）   
@@ -19,7 +20,10 @@ Asia-Pacific Neural Networks Society（2017--）
 浙江省计算机学会（2017--）   
 浙江省信号处理学会（2017--）   
 
-**担任以下SCI源期刊等审稿人**：   
+**期刊编委与审稿人**：   
+Associate Editor:
+J. King Saud Univ. Comput. Inf. Sci. ( Springer，SCI二区，影响因子5.2)    
+Reviewer:
 ACM Transactions on Multimedia Computing Communications and Applications (TOMCCAP)   
 IEEE Transactions on Affective Computing (TAFFC)   
 IEEE Transactions on Fuzzy Systems (TFS)   
@@ -31,6 +35,7 @@ IEEE Transactions on Instrument and Measurement (TIM)
 IEEE Transactions on Computational Social Systems (TCSS)   
 Neural Networks (Elsevier)   
 Pattern Recognition (Elsevier)   
+...
 
 **担任以下国际会议程序委员与审稿人**：   
 ICASSP2024 session chair of IVMSP-P14: image recognition and detection I   
