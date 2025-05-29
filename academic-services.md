@@ -23,6 +23,7 @@ Asia-Pacific Neural Networks Society（2017--）
 **期刊编委与审稿人**：   
 Associate Editor:   
 J. King Saud Univ. Comput. Inf. Sci. ( Springer，SCI二区，影响因子5.2)    
+Neural Engineering and Neurofeedback创刊副主编(Deputy Editors-in-Chief)   
 Reviewer:   
 ACM Transactions on Multimedia Computing Communications and Applications (TOMCCAP)   
 IEEE Transactions on Affective Computing (TAFFC)   
