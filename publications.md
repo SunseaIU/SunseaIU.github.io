@@ -1,5 +1,6 @@
 **SCI源刊论文列表**:   
 
+[76]	Yuxin Chen, **Yong Peng**, Jiajia Tang, Tracey Camilleri, Kenneth Camilleri, Wanzeng Kong, Andrzej Cichocki. EEG-based affective brain-computer interfaces: recent progresses and future challenges. _Journal of Neural Engineering_, accepted, 2025.   
 [75]	Jiajia Tang, Binbin Ni, Feiwei Zhou, Dongjun Liu, Yu Ding, **Yong Peng**, Andrzej Cichocki, Qibin Zhao, Wanzeng Kong. Fine-grained semantic disentanglement network for multimodal sarcasm analysis. _ACM Transactions on Multimedia Computing, Communications, and Applications_, DOI: 10.1145/3722558, 2025.    
 [74]	Zhenye Zhao, Yibing Li, **Yong Peng**, Kenneth Camilleri, Wanzeng Kong. Multi-view graph fusion of self-weighted EEG feature representations for speech imagery decoding. _Journal of Neuroscience Methods_, DOI: 10.1016/j.jneumeth.2025.110413, 2025.    
 [73]	Xinhui Li, Ao Li, Wenyu Fu, Xun Song, Fan Li, Qiang Ma, **Yong Peng**, Zhao Lv. Temporal Relation Modeling and Multimodal Adversarial Alignment Network for Pilot Workload Evaluation. _IEEE Journal of Translational Engineering in Health and Medicine_, DOI: 10.1109/JTEHM.2025.3542408, 2025.   
