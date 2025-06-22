@@ -1,6 +1,6 @@
 **SCI源刊论文列表**:   
 
-[78] Mimi Jin, Yiyan Wang, **Yong Peng**, Feiping Nie, Andrzej Cochicki. Adaptive feature-weighted local-global clustering. _IEEE Signal Processing Letters_, accepted, 2025.   
+[78] Mimi Jin, Yiyan Wang, **Yong Peng**, Feiping Nie, Andrzej Cochicki. Adaptive feature-weighted local-global clustering. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2025.3582536, 2025.   
 [77] Yiyan Wang, Mimi Jin, Yuxin Chen, **Yong Peng**, Ziyue Yang, Feiping Nie, Andrzej Cichocki, and Wanzeng Kong. Efficient co-clustering by adaptive feature-sample co-weighting. _Information Sciences_, DOI: 10.1016/j.ins.2025.122427, 2025.   
 [76]	Yuxin Chen, **Yong Peng**, Jiajia Tang, Tracey Camilleri, Kenneth Camilleri, Wanzeng Kong, Andrzej Cichocki. EEG-based affective brain-computer interfaces: recent progresses and future challenges. _Journal of Neural Engineering_, DOI: 10.1088/1741-2552/ade290, 2025.（**邀请综述论文**）   
 [75]	Jiajia Tang, Binbin Ni, Feiwei Zhou, Dongjun Liu, Yu Ding, **Yong Peng**, Andrzej Cichocki, Qibin Zhao, Wanzeng Kong. Fine-grained semantic disentanglement network for multimodal sarcasm analysis. _ACM Transactions on Multimedia Computing, Communications, and Applications_, DOI: 10.1145/3722558, 2025.    
