@@ -1,7 +1,7 @@
 **SCI源刊论文列表**:   
 
 [81] Yibing Li, Zhenye Zhao, Jiangchuan Liu, **Yong Peng**, Kenneth Camilleri, Wanzeng Kong, Andrzej Cichocki. EEG-based speech imagery decoding by dynamic hypergraph learning within projected and selected feature subspaces. _Journal of Neural Engineering_, DOI: 10.1088/1741-2552/adeec8, 2025.   
-[80] Xiaoxiao Gong, Yuxin Chen, Pengfei Zhang, **Yong Peng**, Jinglong Fang, Andrzej Cichocki. CoAdapt: collaborative adaptation between latent EEG feature representation and annotation for emotion decoding. _IEEE Transactions on Instrumentation and Measurement_, accepted, 2025.   
+[80] Xiaoxiao Gong, Yuxin Chen, Pengfei Zhang, **Yong Peng**, Jinglong Fang, Andrzej Cichocki. CoAdapt: collaborative adaptation between latent EEG feature representation and annotation for emotion decoding. _IEEE Transactions on Instrumentation and Measurement_, DOI: 10.1109/TIM.2025.3590828, 2025.   
 [79] Hongang Liu, Han Yang, Dongjun Liu, Hangjie Yi, Bingfeng He, **Yong Peng**, Wanzeng Kong. Improving Cross-Session Performance of VEP-Based Biometrics with a Dual Attention Refinement Network. _IEEE Transactions on Information Forensics and Security_, DOI: 10.1109/TIFS.2025.3587181, 2025.     
 [78] Mimi Jin, Yiyan Wang, **Yong Peng**, Feiping Nie, Andrzej Cochicki. Adaptive feature-weighted local-global clustering. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2025.3582536, 2025.   
 [77] Yiyan Wang, Mimi Jin, Yuxin Chen, **Yong Peng**, Ziyue Yang, Feiping Nie, Andrzej Cichocki, and Wanzeng Kong. Efficient co-clustering by adaptive feature-sample co-weighting. _Information Sciences_, DOI: 10.1016/j.ins.2025.122427, 2025.   
