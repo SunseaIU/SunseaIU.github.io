@@ -1,5 +1,6 @@
 **SCI源刊论文列表**:   
 
+[82]	Guoguo Ye, Qiqi Chen, Zhiyang Kong, Mingrui Zhou, and **Yong Peng**. Adaptive Multi-granularity Information Exploration for EEG-based Speech Recognition. _IEEE Signal Processing Letters_, Accepted, 2025.   
 [81] Yibing Li, Zhenye Zhao, Jiangchuan Liu, **Yong Peng**, Kenneth Camilleri, Wanzeng Kong, Andrzej Cichocki. EEG-based speech imagery decoding by dynamic hypergraph learning within projected and selected feature subspaces. _Journal of Neural Engineering_, DOI: 10.1088/1741-2552/adeec8, 2025.   
 [80] Xiaoxiao Gong, Yuxin Chen, Pengfei Zhang, **Yong Peng**, Jinglong Fang, Andrzej Cichocki. CoAdapt: collaborative adaptation between latent EEG feature representation and annotation for emotion decoding. _IEEE Transactions on Instrumentation and Measurement_, DOI: 10.1109/TIM.2025.3590828, 2025.   
 [79] Hongang Liu, Han Yang, Dongjun Liu, Hangjie Yi, Bingfeng He, **Yong Peng**, Wanzeng Kong. Improving Cross-Session Performance of VEP-Based Biometrics with a Dual Attention Refinement Network. _IEEE Transactions on Information Forensics and Security_, DOI: 10.1109/TIFS.2025.3587181, 2025.     
