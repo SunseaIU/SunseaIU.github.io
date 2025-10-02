@@ -1,6 +1,6 @@
 **SCI源刊论文列表**:   
 
-[86] Wenbo Zheng, **Yong Peng**, Ancai Zhang, Quan Yuan. EEG-based emotion identification from nerve conduction mechanisms: A gustatory-emotion coupling model combined with multiblock attention module. _Expert Systems with Applications_, accepted, 2025.   
+[86] Wenbo Zheng, **Yong Peng**, Ancai Zhang, Quan Yuan. EEG-based emotion identification from nerve conduction mechanisms: A gustatory-emotion coupling model combined with multiblock attention module. _Expert Systems with Applications_, DOI: 10.1016/j.eswa.2025.129855, 2025.   
 [85] Honggang Liu, Han Yang, Dongjun Liu, Xuanyu Jin, **Yong Peng**, Wanzeng Kong. DRFNet: Enhancing Identity Discriminability and Feature Robustness for Cross-Session VEP-Based EEG Biometrics. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2025.3604620, 2025.    
 [84] Huang Huang, Xinhui Li, Minchao Wu, Zhao Lv, **Yong Peng**. Cross-modal knowledge distillation for enhanced depression detection. _Complex & Intelligent Systems_, DOI: 10.1007/s40747-025-02035-z, 2025.    
 [83] **Yong Peng**, Jiangchuan Liu, Honggang Liu, Natasha Padfield, Junhua Li, Wanzeng Kong, Bao-Liang Lu, and Andrzej Cichocki. Prediction Consistency and Confidence-based Proxy Domain Construction for Privacy-Preserving in Cross-subject EEG Classification. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2025.3595826, 2025.   
