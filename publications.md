@@ -1,5 +1,6 @@
 **SCI源刊论文列表**:   
 
+[87] Zhenye Zhao, **Yong Peng**, Kenneth Camilleri, Wanzeng Kong, Andrzej Cichocki. Imagined Speech Decoding by Learning Consensus Graph from RKHS-based Multi-view EEG Features. IEEE Signal Processing Letters, accepted, 2025.   
 [86] Wenbo Zheng, **Yong Peng**, Ancai Zhang, Quan Yuan. EEG-based emotion identification from nerve conduction mechanisms: A gustatory-emotion coupling model combined with multiblock attention module. _Expert Systems with Applications_, DOI: 10.1016/j.eswa.2025.129855, 2025.   
 [85] Honggang Liu, Han Yang, Dongjun Liu, Xuanyu Jin, **Yong Peng**, Wanzeng Kong. DRFNet: Enhancing Identity Discriminability and Feature Robustness for Cross-Session VEP-Based EEG Biometrics. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2025.3604620, 2025.    
 [84] Huang Huang, Xinhui Li, Minchao Wu, Zhao Lv, **Yong Peng**. Cross-modal knowledge distillation for enhanced depression detection. _Complex & Intelligent Systems_, DOI: 10.1007/s40747-025-02035-z, 2025.    
