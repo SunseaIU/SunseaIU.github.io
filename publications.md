@@ -1,4 +1,4 @@
-**SCI源刊论文列表**:   
+**SCI/SSCI源刊论文列表**:   
 
 [87] Zhenye Zhao, **Yong Peng**, Kenneth Camilleri, Wanzeng Kong, Andrzej Cichocki. Imagined Speech Decoding by Learning Consensus Graph from RKHS-based Multi-view EEG Features. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2025.3619947, 2025.   
 [86] Wenbo Zheng, **Yong Peng**, Ancai Zhang, Quan Yuan. EEG-based emotion identification from nerve conduction mechanisms: A gustatory-emotion coupling model combined with multiblock attention module. _Expert Systems with Applications_, DOI: 10.1016/j.eswa.2025.129855, 2025.   
@@ -89,7 +89,7 @@
 [1]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.
 
 **国际会议论文列表**：    
-[16]	Junhao Jia, Yifei Sun, Yunyou Liu, Cheng Yang, Changmiao Wang, Feiwei Qin, Yong Peng. RTGMFF: Enhanced fMRI-Based Brain Disorder Diagnosis via ROI-driven Text Generation and Multimodal Feature Fusion. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), Wuhan, China, December 15-18, 2025.   
+[16]	Junhao Jia, Yifei Sun, Yunyou Liu, Cheng Yang, Changmiao Wang, Feiwei Qin, **Yong Peng**. RTGMFF: Enhanced fMRI-Based Brain Disorder Diagnosis via ROI-driven Text Generation and Multimodal Feature Fusion. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), Wuhan, China, December 15-18, 2025.   
 [15]	Jiaman Li, Yuxin Chen, Kaiyin Lian, **Yong Peng**. Data and model fused comparative analysis between speech imagery and idle states by EEG-based connectivity features. _International Conference on Automation and Computing_ (ICAC), Loughborough, UK, August 27-29, 2025.   
 [14]	Natasha Padfield, Stefanie Türk, Kamran Mujahid, Tracey Camilleri, **Yong Peng**, and Kenneth Camilleri. A spatio-spectral analysis of decoding imagined speech from the idle state. _Annual International Conference of the IEEE Engineering in Medicine and Biology Society_ (EMBC), Copenhagen, Denmark, July 14-17, 2025.    
 [13] Yifei Chen, Feiwei Qin, Jin Fan, **Yong Peng**, Changmiao Wang. Toward robust early detection of Alzheimer's disease via an integrated multimodal learning approach. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), Hyderabad, India, April 6-11, DOI: 10.1109/ICASSP49660.2025.10888363, 2025.   
