@@ -1,6 +1,6 @@
 **SCI/SSCI源刊论文列表**:   
 
-[89]	Ziyue Yang, Kehan Wang, Yuhang Ming, **Yong Peng**, Han Yang，Qiong Chen， Wanzeng Kong. Uncertainty-aware human-machine collaboration in camouflaged object detection. _Cognitive Neurodynamics_, accepted for publication, 2025.   
+[89]	Ziyue Yang, Kehan Wang, Yuhang Ming, **Yong Peng**, Han Yang, Qiong Chen, Wanzeng Kong. Uncertainty-aware human-machine collaboration in camouflaged object detection. _Cognitive Neurodynamics_, accepted for publication, 2025.   
 [88] Kaiyin Lian, Honggang Liu, Zhewei Fang, **Yong Peng**, Natasha Padfield, Bing Yang, Wanzeng Kong, Andrzej Cichocki. P2CSL: Cross-subject EEG Classification by Subspace Class Prototype-based Progressive Confident Target Sample Labeling. _Journal of Neural Engineering_, DOI: 10.1088/1741-2552/ae204c, 2025.   
 [87] Zhenye Zhao, **Yong Peng**, Kenneth Camilleri, Wanzeng Kong, Andrzej Cichocki. Imagined Speech Decoding by Learning Consensus Graph from RKHS-based Multi-view EEG Features. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2025.3619947, 2025.   
 [86] Wenbo Zheng, **Yong Peng**, Ancai Zhang, Quan Yuan. EEG-based emotion identification from nerve conduction mechanisms: A gustatory-emotion coupling model combined with multiblock attention module. _Expert Systems with Applications_, DOI: 10.1016/j.eswa.2025.129855, 2025.   
