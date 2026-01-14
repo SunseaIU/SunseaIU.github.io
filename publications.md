@@ -1,5 +1,7 @@
 **SCI/SSCI源刊论文列表**:   
 
+[91] Changwei Wu, Yifei Chen, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, **Yong Peng**, Jin Fan, Feiwei Qin, Changmiao Wang. Towards practical Alzheimer’s disease diagnosis: a lightweight and interpretable spiking neural model. _Biomedical Signal Processing and Control_, accepted, 2026.   
+[90] Chang Wu, Pengxin Xu, Zhaohu Liu, Luyun Wang, **Yong Peng**. Prototype distance and local manifold guided sample-weighted kernel clustering. IEEE Signal Processing Letters, accepted, 2026.   
 [89]	Ziyue Yang, Kehan Wang, Yuhang Ming, **Yong Peng**, Han Yang, Qiong Chen, Wanzeng Kong. Uncertainty-aware human-machine collaboration in camouflaged object detection. _Cognitive Neurodynamics_, accepted for publication, 2025.   
 [88] Kaiyin Lian, Honggang Liu, Zhewei Fang, **Yong Peng**, Natasha Padfield, Bing Yang, Wanzeng Kong, Andrzej Cichocki. P2CSL: Cross-subject EEG Classification by Subspace Class Prototype-based Progressive Confident Target Sample Labeling. _Journal of Neural Engineering_, DOI: 10.1088/1741-2552/ae204c, 2025.   
 [87] Zhenye Zhao, **Yong Peng**, Kenneth Camilleri, Wanzeng Kong, Andrzej Cichocki. Imagined Speech Decoding by Learning Consensus Graph from RKHS-based Multi-view EEG Features. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2025.3619947, 2025.   
