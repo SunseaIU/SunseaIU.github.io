@@ -33,7 +33,7 @@
 [62]	Feiwei Qin, Kang Yan, Changmiao Wang, Ruiquan Ge, **Yong Peng**, Kai Zhang. LKFormer: large kernel transformer for infrared image super-resolution. _Multimedia Tools and Applications_, 83(28): 72063-72077, 2024.   
 [61]	Honggang Liu, Xuanyu Jin, Dongjun Liu, Wanzeng Kong, Jiajia Tang, **Yong Peng**. Affective EEG-based cross-session person identification using hierarchical graph embedding. _Cognitive Neurodynamics_, DOI:10.1007/s11571-024-10132-x, 2024.   
 [60]	Xuanyu Jin, Xinyu Yang, Wanzeng Kong, Li Zhu, Jiajia Tang, **Yong Peng**, Yu Ding, Qibin Zhao. TSFAN: tensorized spatial-frequency attention network with domain adaptation for cross-session EEG-based biometric recognition. _Journal of Neural Engineering_, vol. 21, ID 046005, 2024.   
-[59]	Yifei Chen, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Feiwei Qin, **Yong Peng**, Yu Gao. Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases. _Computers in Biology and Medicine_, vol. 170, ID 107917, 2024.(**ESI高被引论文，热点论文**)   
+[59]	Yifei Chen, Chenyan Zhang, Ben Chen, Yiyu Huang, Yifei Sun, Changmiao Wang, Feiwei Qin, **Yong Peng**, Yu Gao. Accurate leukocyte detection based on deformable-DETR and multi-level feature fusion for aiding diagnosis of blood diseases. _Computers in Biology and Medicine_, vol. 170, ID 107917, 2024.(**曾入选ESI高被引论文，热点论文**)   
 [58]	Qi Zhu, **Yong Peng**. Semi-supervised kernel discriminative low-rank regression for data classification. _International Arab Journal of Information Technology_, 21(5): 800-815, 2024.    
 [57]	**Yong Peng**, Honggang Liu, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, Andrzej Cichocki. Joint EEG feature transfer and semi-supervised cross-subject emotion recognition, _IEEE Transactions on Industrial Informatics_, 19(7): 8104-8115, 2023.   
 [56]	**Yong Peng**, Wenna Huang, Wanzeng Kong, Feiping Nie, and Bao-Liang Lu. JGSED: an end-to-end spectral clustering model for joint graph Construction, spectral embedding and discretization. _IEEE Transactions on Emerging Topics in Computational Intelligence_, 7(6): 1687-1701, 2023.   
@@ -52,7 +52,7 @@
 [43]	**Yong Peng**, Wenjuan Wang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, Andrzej Cichocki. Joint feature adaptation and graph adaptive label propagation for cross-subject emotion recognition from EEG signals. _IEEE Transactions on Affective Computing_, 13(4): 1941-1958, 2022.   
 [42]	**Yong Peng**, Fengzhe Jin, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, Andrzej Cichocki. OGSSL: a semi-supervised classification model coupled with optimal graph learning for EEG emotion recognition. _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 1288-1297, 2022.   
 [41]	**Yong Peng**, Yikai Zhang, Wanzeng Kong, Feiping Nie, Bao-Liang Lu, Andrzej Cichocki. S3LRR: a unified model for joint discriminative subspace identification and semi-supervised EEG emotion recognition. _IEEE Transactions on Instrumentation and Measurement_, 71, Article ID 2507313, 2022.    
-[40]	**Yong Peng**, Feiwei Qin, Wanzeng Kong, Feiping Nie, Yuan Ge, Andrzej Cichocki. GFIL: a unified framework for the analysis of features, frequency bands, channels in EEG-based emotion recognition. _IEEE Transactions on Cognitive and Developmental Systems_, 14(3): 935-947, 2022. (**ESI高被引论文**)   
+[40]	**Yong Peng**, Feiwei Qin, Wanzeng Kong, Feiping Nie, Yuan Ge, Andrzej Cichocki. GFIL: a unified framework for the analysis of features, frequency bands, channels in EEG-based emotion recognition. _IEEE Transactions on Cognitive and Developmental Systems_, 14(3): 935-947, 2022. (**曾入选ESI高被引论文**)   
 [39]	Xing Li, Fangyao Shen, **Yong Peng**, Wanzeng Kong, Bao-Liang Lu. Efficient Sample and Feature Importance Mining in Semi-supervised EEG Emotion Recognition. _IEEE Transactions on Circuits and Systems-II: Express Briefs_, 69(7): 3349–3353, 2022.    
 [38]	Ruiqi Guo, **Yong Peng**, Wanzeng Kong, Fan Li. A semi-supervised label distribution learning model with label correlations and data manifold exploration. _Journal of King-Saud University-Computer and Information Sciences_, 34(10 Part B): 10094-10108, 2022.   
 [37]	Yikai Zhang, Ruiqi Guo, **Yong Peng**, Wanzeng Kong, Feiping Nie, Bao-Liang Lu. An auto-weighting incremental random vector functional link network for EEG-based driving fatigue detection. _IEEE Transactions on Instrumentation and Measurement_, vol. 71, Article ID 4010014, 2022.    
@@ -86,7 +86,7 @@
 [9]	**Yong Peng**, Bao-Liang Lu. Discriminative manifold extreme learning machine and applications to image and EEG signal classification. _Neurocomputing_, 174:265--277, 2016.  
 [8]	**Yong Peng**, Wei-Long Zheng, Bao-Liang Lu. An unsupervised discriminative extreme learning machine and its applications to data clustering. _Neurocomputing_, 174: 250--264, 2016.   
 [7]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Xianzhong Wang, Shaokun Feng. Image classification based on improved VLAD. _Multimedia Tools and Applications_,75(10), 5533--5555, 2016.   
-[6]	**Yong Peng**, Suhang Wang, Xianzhong Long, Bao-Liang Lu. Discriminative graph regularized extreme learning machine and its application to face recognition. _Neurocomputing_,149: 340--353, 2015.（**ESI高被引论文**）   
+[6]	**Yong Peng**, Suhang Wang, Xianzhong Long, Bao-Liang Lu. Discriminative graph regularized extreme learning machine and its application to face recognition. _Neurocomputing_,149: 340--353, 2015.（**曾入选ESI高被引论文**）   
 [5]	**Yong Peng**, Bao-Liang Lu, Suhang Wang. Enhanced low rank representation via sparse manifold adaption for semi-supervised learning. _Neural Networks_, 65: 1--17, 2015.   
 [4]	**Yong Peng**, Bao-Liang Lu. Hybrid learning clonal selection algorithm. _Information Sciences_, 296: 128--146, 2015.   
 [3]	**Yong Peng**, Xianzhong Long, Bao-Liang Lu. Graph based semi-supervised learning via structure preserving low rank representation. _Neural Processing Letters_, 41(3): 389--406,2015.    
@@ -115,6 +115,6 @@
 
 **中文权威/一级期刊论文列表**：   
 [3]	李文政，王文娟，**彭勇**，孔万增。联合双映射域适应与图半监督标签估计的脑电情感识别方法。中国生物医学工程学报，42(5): 529-541, 2023.   
-[2]	秦飞巍，沈希乐，**彭勇**，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。计算机辅助设计与图形学学报，33 (7): 1026-1037, 2021.（**高PCSI论文，高被引论文**）   
+[2]	秦飞巍，沈希乐，**彭勇**，邵艳利，袁文强，计忠平，白静。无人驾驶中的场景实时语义分割方法。计算机辅助设计与图形学学报，33 (7): 1026-1037, 2021.（**曾入选中文高PCSI论文，高被引论文**）   
 [1]	林浒，**彭勇**。面向多目标优化的适应度共享免疫克隆算法。控制理论与应用，28（2）：206-214， 2011.
 
