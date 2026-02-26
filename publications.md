@@ -1,5 +1,6 @@
 **SCI/SSCI源刊论文列表**:   
 
+[93] Xie He, Qi Cui, Chang Wu, **Yong Peng**, and Wanzeng Kong. Multi-view manifold-adaptive kernel regression for speech classification from EEG signals. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3668169, 2026.   
 [92]	Yanbo Li, Zihan Mao, Feiwei Qin, **Yong Peng**, Guodao Zhang, Xugang Xi, Xiaoqin Ma, Huanhuan Yu, Yu Zhou, Zhu Zhu. A Local-Global Fusion Vision Mamba UNet Framework for medical image segmentation. _Engineering Applications of Artificial Intelligence_, DOI: 10.1016/j.engappai.2026.113987, 2026.   
 [91] Changwei Wu, Yifei Chen, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin, **Yong Peng**, Jin Fan, Changmiao Wang. Towards practical Alzheimer’s disease diagnosis: a lightweight and interpretable spiking neural model. _Biomedical Signal Processing and Control_, DOI: 10.1016/j.bspc.2026.109595, 2026.     
 [90]	Ziyue Yang, Kehan Wang, Yuhang Ming, Han Yang, Qiong Chen, **Yong Peng**, Wanzeng Kong. Uncertainty-aware human-machine collaboration in camouflaged object detection. _Cognitive Neurodynamics_, DOI: 10.1007/s11571-025-10407-x, 2026.   
