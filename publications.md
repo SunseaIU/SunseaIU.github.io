@@ -1,5 +1,6 @@
 **SCI/SSCI源刊论文列表**:   
 
+[94]	Bing Yang, Xueqin Xiang, Wanzeng Kong, **Yong Peng**, and Jianhai Zhang. GaborNet: attention-based Gabor convolutional networks for contactless palmprint recognition. _Multimedia Tools and Applications_, Volume 85, article number 239, 2026.   
 [93] Xie He, Qi Cui, Chang Wu, **Yong Peng**, and Wanzeng Kong. Multi-view manifold-adaptive kernel regression for speech classification from EEG signals. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3668169, 2026.   
 [92]	Yanbo Li, Zihan Mao, Feiwei Qin, **Yong Peng**, Guodao Zhang, Xugang Xi, Xiaoqin Ma, Huanhuan Yu, Yu Zhou, Zhu Zhu. A Local-Global Fusion Vision Mamba UNet Framework for medical image segmentation. _Engineering Applications of Artificial Intelligence_, DOI: 10.1016/j.engappai.2026.113987, 2026.   
 [91] Changwei Wu, Yifei Chen, Yuxin Du, Jinying Zong, Jie Dong, Mingxuan Liu, Feiwei Qin, **Yong Peng**, Jin Fan, Changmiao Wang. Towards practical Alzheimer’s disease diagnosis: a lightweight and interpretable spiking neural model. _Biomedical Signal Processing and Control_, DOI: 10.1016/j.bspc.2026.109595, 2026.     
