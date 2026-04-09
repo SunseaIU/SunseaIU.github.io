@@ -1,6 +1,6 @@
 **SCI/SSCI源刊论文列表**:   
 
-[96] **Yong Peng**, Mimi Jin, Yiyan Wang, Yuxin Chen, Feiwei Qin, Wanzeng Kong, Andrzej Cichocki. A Global-local Data Clustering Framework with Adaptive Feature and Sample Weighting and Balanced Constraint. _IEEE Transactions on Emerging Topics in Computational Intelligence_, accepted, 2026.   
+[96] **Yong Peng**, Mimi Jin, Yiyan Wang, Yuxin Chen, Feiwei Qin, Wanzeng Kong, Andrzej Cichocki. A Global-local Data Clustering Framework with Adaptive Feature and Sample Weighting and Balanced Constraint. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI: 10.1109/TETCI.2026.3683109, 2026.   
 [95]	Bing Yang, Xueqin Xiang, **Yong Peng**, Wanzeng Kong, Jianhai Zhang and Jinliang Yao. LAE-Net: Large Pretrained Models Assistant Text-Guided Image Editing Adversarial Network. _IEEE Transactions on Visualization and Computer Graphics_, DOI: 10.1109/TVCG.2026.3678876, 2026.   
 [94]	Bing Yang, Xueqin Xiang, Wanzeng Kong, **Yong Peng**, and Jianhai Zhang. GaborNet: attention-based Gabor convolutional networks for contactless palmprint recognition. _Multimedia Tools and Applications_, Volume 85, article number 239, 2026.   
 [93] Xie He, Qi Cui, Chang Wu, **Yong Peng**, and Wanzeng Kong. Multi-view manifold-adaptive kernel regression for speech classification from EEG signals. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3668169, 2026.   
