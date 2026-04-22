@@ -1,6 +1,6 @@
 **部分代表性论文**:   
 
-[30] Jiatao Zhang, Jiangchuan Liu, Luyun Wang, **Yong Peng**, Wanzeng Kong, and Andrzej Cichocki. BR-SFDA: A Source-Target Bidirectional Refined SFDA for Privacy Preserving EEG-based BCIs. _IEEE Journal of Biomedical and Health Informatics_, accepted, 2026.   
+[30] Jiatao Zhang, Jiangchuan Liu, Luyun Wang, **Yong Peng**<sup>*</sup>, Wanzeng Kong, and Andrzej Cichocki. BR-SFDA: A Source-Target Bidirectional Refined SFDA for Privacy Preserving EEG-based BCIs. _IEEE Journal of Biomedical and Health Informatics_, accepted, 2026.   
 [29] **Yong Peng**, Mimi Jin, Yiyan Wang, Yuxin Chen, Feiwei Qin, Wanzeng Kong, Andrzej Cichocki. A Global-local Data Clustering Framework with Adaptive Feature and Sample Weighting and Balanced Constraint. _IEEE Transactions on Emerging Topics in Computational Intelligence_, accepted, 2026.   
 [28]	Bing Yang, Xueqin Xiang, **Yong Peng**, Wanzeng Kong, Jianhai Zhang and Jinliang Yao. LAE-Net: Large Pretrained Models Assistant Text-Guided Image Editing Adversarial Network. _IEEE Transactions on Visualization and Computer Graphics_, DOI: 10.1109/TVCG.2026.3678876, 2026.   
 [27] Honggang Liu, Han Yang, Dongjun Liu, Xuanyu Jin, **Yong Peng**, Wanzeng Kong. DRFNet: Enhancing Identity Discriminability and Feature Robustness for Cross-Session VEP-Based EEG Biometrics. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2025.3604620, 2025.    
