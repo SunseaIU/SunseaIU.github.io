@@ -1,6 +1,6 @@
 **SCI/SSCI源刊论文列表**:   
 
-[98]	Jiatao Zhang, Jiangchuan Liu, Luyun Wang, **Yong Peng**<sup>*</sup>, Wanzeng Kong, and Andrzej Cichocki. BR-SFDA: A Source-Target Bidirectional Refined SFDA for Privacy Preserving EEG-based BCIs. _IEEE Journal of Biomedical and Health Informatics_, accepted, 2026.   
+[98]	Jiatao Zhang, Jiangchuan Liu, Luyun Wang, **Yong Peng** <sup>*</sup>, Wanzeng Kong, and Andrzej Cichocki. BR-SFDA: A Source-Target Bidirectional Refined SFDA for Privacy Preserving EEG-based BCIs. _IEEE Journal of Biomedical and Health Informatics_, accepted, 2026.   
 [97]	Feiwei Qin, Xinyu Cao, Changmiao Wang, Kai Zhang, **Yong Peng**, Jing Bai. A cross-scale interaction framework combining Mamba and convolutional neural networks for arbitrary-scale super-resolution of infrared images. _Engineering Applications of Artificial Intelligence_, accepted, 2026.   
 [96] **Yong Peng**<sup>*</sup>, Mimi Jin, Yiyan Wang, Yuxin Chen, Feiwei Qin, Wanzeng Kong, Andrzej Cichocki. A Global-local Data Clustering Framework with Adaptive Feature and Sample Weighting and Balanced Constraint. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI: 10.1109/TETCI.2026.3683109, 2026.   
 [95]	Bing Yang, Xueqin Xiang, **Yong Peng**<sup>*</sup>, Wanzeng Kong, Jianhai Zhang and Jinliang Yao. LAE-Net: Large Pretrained Models Assistant Text-Guided Image Editing Adversarial Network. _IEEE Transactions on Visualization and Computer Graphics_, DOI: 10.1109/TVCG.2026.3678876, 2026.   
