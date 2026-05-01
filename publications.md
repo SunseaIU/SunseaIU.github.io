@@ -1,4 +1,4 @@
-**SCI/SSCI源刊论文列表**:   
+**期刊论文列表**:   
 
 [99]	Jiatao Zhang, Jiangchuan Liu, Luyun Wang, **Yong Peng**, Wanzeng Kong, and Andrzej Cichocki. BR-SFDA: A Source-Target Bidirectional Refined SFDA for Privacy Preserving EEG-based BCIs. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2026.3686008, 2026.      
 [98]	Feiwei Qin, Xinyu Cao, Changmiao Wang, Kai Zhang, **Yong Peng**, Jing Bai. A cross-scale interaction framework combining Mamba and convolutional neural networks for arbitrary-scale super-resolution of infrared images. _Engineering Applications of Artificial Intelligence_, DOI: 10.1016/j.engappai.2026.114857, 2026.  
@@ -100,7 +100,7 @@
 [2]	Xianzhong Long, Hongtao Lu, **Yong Peng**, Wenbin Li. Graph regularized discriminative nonnegative matrix factorization for face recognition. _Multimedia Tools and Applications_, 72(3): 2679--2699, 2014.      
 [1]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.
 
-**国际会议论文列表**：    
+**会议论文列表**：    
 [17] Chi Huang, Zhaohu Liu, **Yong Peng**, and Wanzeng Kong. HFFN-ID: A Hierarchical Feature Fusion Network with Bi-Phase Subject ID Modulation for EEG Mel-Spectrogram Reconstruction. _International Joint Conference on Artificial Intelligence_ (IJCAI), August 15-21, Bermen, Germany, 2026.   
 [16]	Junhao Jia, Yunyou Liu, Yifei Sun, Huangwei Chen, Feiwei Qin, Changmiao Wang, **Yong Peng**. Geodesic prototype matching via diffusion maps for interpretable fine-grained recognition.  _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), 4-8 May, Barcelona, Spain, 2026.   
 [15]	Junhao Jia, Yunyou Liu, Cheng Yang, Yifei Sun, Feiwei Qin, Changmiao Wang, **Yong Peng**. Brian-HGCN: a hyperbolic graph convolutional network for brain functional network analysis. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), 4-8 May, Barcelona, Spain, 2026.   
