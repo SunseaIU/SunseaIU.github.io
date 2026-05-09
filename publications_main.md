@@ -1,6 +1,6 @@
 **部分代表性论文**:   
 
-[31] Chi Huang, Zhaohu Liu, **Yong Peng**, and Wanzeng Kong. HFFN-ID: A Hierarchical Feature Fusion Network with Bi-Phase Subject ID Modulation for EEG Mel-Spectrogram Reconstruction. _International Joint Conference on Artificial Intelligence_ (IJCAI), August 15-21, Bermen, Germany, 2026.   
+[31] Chi Huang, Zhaohu Liu, **Yong Peng**<sup>* </sup>, and Wanzeng Kong. HFFN-ID: A Hierarchical Feature Fusion Network with Bi-Phase Subject ID Modulation for EEG Mel-Spectrogram Reconstruction. _International Joint Conference on Artificial Intelligence_ (IJCAI), August 15-21, Bermen, Germany, 2026.   
 [30] Jiatao Zhang, Jiangchuan Liu, Luyun Wang, **Yong Peng**, Wanzeng Kong, and Andrzej Cichocki. BR-SFDA: A Source-Target Bidirectional Refined SFDA for Privacy Preserving EEG-based BCIs. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2026.3686008, 2026.   
 [29] **Yong Peng**, Mimi Jin, Yiyan Wang, Yuxin Chen, Feiwei Qin, Wanzeng Kong, Andrzej Cichocki. A Global-local Data Clustering Framework with Adaptive Feature and Sample Weighting and Balanced Constraint. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI: 10.1109/TETCI.2026.3683109, 2026.   
 [28]	Bing Yang, Xueqin Xiang, **Yong Peng**<sup>*</sup>, Wanzeng Kong, Jianhai Zhang and Jinliang Yao. LAE-Net: Large Pretrained Models Assistant Text-Guided Image Editing Adversarial Network. _IEEE Transactions on Visualization and Computer Graphics_, DOI: 10.1109/TVCG.2026.3678876, 2026.   
