@@ -42,7 +42,7 @@ menu:
     icon: ""
     
   - text: 论文发表
-    link: /publications_main
+    link: /publications
     icon: ""
 
   - text: 专利
