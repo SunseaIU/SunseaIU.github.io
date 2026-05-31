@@ -1,5 +1,7 @@
 **期刊论文列表**:   
 
+[102] Qi Cui, Xie He, Zhaohu Liu, Chang Wu, and **Yong Peng**. RKHS-based Sample Reconstruction Ability Modulated Robust Kernel Fuzzy Clustering. _IEEE Signal Processing Letters_, accepted, 2026.   
+[101] Xinyu Cao, Feiwei Qin, Changmiao Wang, Jin Fan, Jing Chen, **Yong Peng**, Bao Peng, Wentai Lei, and Tao Zhang. MIDNet: Multi-level Implicit Differential Network for Infrared Image Denoising. _IEEE Transactions on Multimedia_, accepted, 2026.   
 [100] Chang Wu, Pengxin Xu, **Yong Peng**, Andrzej Cichocki. Kernel Space Based Dual Weighted Robust Principal Component Analysis. _Journal of Classification_, DOI: 10.1007/s00357-026-09552-7, 2026.   
 [99]	Jiatao Zhang, Jiangchuan Liu, Luyun Wang, **Yong Peng**, Wanzeng Kong, and Andrzej Cichocki. BR-SFDA: A Source-Target Bidirectional Refined SFDA for Privacy Preserving EEG-based BCIs. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2026.3686008, 2026.      
 [98]	Feiwei Qin, Xinyu Cao, Changmiao Wang, Kai Zhang, **Yong Peng**, Jing Bai. A cross-scale interaction framework combining Mamba and convolutional neural networks for arbitrary-scale super-resolution of infrared images. _Engineering Applications of Artificial Intelligence_, DOI: 10.1016/j.engappai.2026.114857, 2026.  
