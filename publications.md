@@ -1,6 +1,6 @@
 **期刊论文列表**:   
 
-[103] Pengxin Xu, Chang Wu, Zhaohu Liu, **Yong Peng**, and Feiping Nie. Exploring Consistency for Data Clustering by Multi-view Multi-order Graph Decomposition. _IEEE Signal Processing Letters_, accepted, 2026.   
+[103] Pengxin Xu, Chang Wu, Zhaohu Liu, **Yong Peng**, and Feiping Nie. Exploring Consistency for Data Clustering by Multi-view Multi-order Graph Decomposition. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3700547, 2026.   
 [102] Qi Cui, Xie He, Zhaohu Liu, Chang Wu, and **Yong Peng**. RKHS-based Sample Reconstruction Ability Modulated Robust Kernel Fuzzy Clustering. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3699592, 2026.   
 [101] Xinyu Cao, Feiwei Qin, Changmiao Wang, Jin Fan, Jing Chen, **Yong Peng**, Bao Peng, Wentai Lei, and Tao Zhang. MIDNet: Multi-level Implicit Differential Network for Infrared Image Denoising. _IEEE Transactions on Multimedia_, accepted, 2026.   
 [100] Chang Wu, Pengxin Xu, **Yong Peng**, Andrzej Cichocki. Kernel Space Based Dual Weighted Robust Principal Component Analysis. _Journal of Classification_, DOI: 10.1007/s00357-026-09552-7, 2026.   
