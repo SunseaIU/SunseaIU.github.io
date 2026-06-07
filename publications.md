@@ -1,5 +1,6 @@
 **期刊论文列表**:   
 
+[104] Yaolun Jin, Yinfeng Fang, **Yong Peng**, Congyi Zhang, Dalin Zhou, Zhaojie Ju. HGR-STAR: raw HD-sEMG gesture recognition via StarNet with HD-sEMG embedding and label smoothing. _IEEE Transactions on Human-Machine Systems_, accepted, 2026.   
 [103] Pengxin Xu, Chang Wu, Zhaohu Liu, **Yong Peng**, and Feiping Nie. Exploring Consistency for Data Clustering by Multi-view Multi-order Graph Decomposition. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3700547, 2026.   
 [102] Qi Cui, Xie He, Zhaohu Liu, Chang Wu, and **Yong Peng**. RKHS-based Sample Reconstruction Ability Modulated Robust Kernel Fuzzy Clustering. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3699592, 2026.   
 [101] Xinyu Cao, Feiwei Qin, Changmiao Wang, Jin Fan, Jing Chen, **Yong Peng**, Bao Peng, Wentai Lei, and Tao Zhang. MIDNet: Multi-level Implicit Differential Network for Infrared Image Denoising. _IEEE Transactions on Multimedia_, accepted, 2026.   
