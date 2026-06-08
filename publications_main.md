@@ -1,5 +1,7 @@
 **代表性论文**:   
 
+[33] Yaolun Jin, Yinfeng Fang, **Yong Peng**, Congyi Zhang, Dalin Zhou, Zhaojie Ju. HGR-STAR: raw HD-sEMG gesture recognition via StarNet with HD-sEMG embedding and label smoothing. _IEEE Transactions on Human-Machine Systems_, accepted, 2026.   
+[32] Xinyu Cao, Feiwei Qin, Changmiao Wang, Jin Fan, Jing Chen, **Yong Peng**, Bao Peng, Wentai Lei, and Tao Zhang. MIDNet: Multi-level Implicit Differential Network for Infrared Image Denoising. _IEEE Transactions on Multimedia_, accepted, 2026.     
 [31] Chi Huang, Zhaohu Liu, **Yong Peng**<sup>* </sup>, and Wanzeng Kong. HFFN-ID: A Hierarchical Feature Fusion Network with Bi-Phase Subject ID Modulation for EEG Mel-Spectrogram Reconstruction. _International Joint Conference on Artificial Intelligence_ (IJCAI), August 15-21, Bermen, Germany, 2026.   
 [30] Jiatao Zhang, Jiangchuan Liu, Luyun Wang, **Yong Peng**<sup>* </sup>, Wanzeng Kong, and Andrzej Cichocki. BR-SFDA: A Source-Target Bidirectional Refined SFDA for Privacy Preserving EEG-based BCIs. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2026.3686008, 2026.   
 [29] **Yong Peng**<sup>* </sup>, Mimi Jin, Yiyan Wang, Yuxin Chen, Feiwei Qin, Wanzeng Kong, Andrzej Cichocki. A Global-local Data Clustering Framework with Adaptive Feature and Sample Weighting and Balanced Constraint. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI: 10.1109/TETCI.2026.3683109, 2026.   
