@@ -1,5 +1,6 @@
 **期刊论文列表**:   
 
+[106] Yifu Chen, Yihao Wang, Pengxin Xu, and Yong Peng*. Adaptive Feature-weighted Topological Manifold Graph Learning for Multi-view Data Clustering. IEEE Signal Processing Letters, accepted, 2026.   
 [105]	Yiyan Wang, Bin Yang, Zhaohu Liu, Junhua Li, and **Yong Peng**. Adaptive Feature-weighted Co-clustering with Local Coordinate Coding. _IEEE Signal Processing Letters_, DOI10.1109/LSP.2026.3709729, 2026.   
 [104] Yaolun Jin, Yinfeng Fang, **Yong Peng**, Congyi Zhang, Dalin Zhou, Zhaojie Ju. HGR-STAR: raw HD-sEMG gesture recognition via StarNet with HD-sEMG embedding and label smoothing. _IEEE Transactions on Human-Machine Systems_, DOI: 10.1109/THMS.2026.3703202, 2026.   
 [103] Pengxin Xu, Chang Wu, Zhaohu Liu, **Yong Peng**, and Feiping Nie. Exploring Consistency for Data Clustering by Multi-view Multi-order Graph Decomposition. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3700547, 2026.   
