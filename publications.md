@@ -1,5 +1,6 @@
 **期刊论文列表**:   
 
+[107]	Jiaman Li, Zhaohu Liu, Feng Gao, **Yong Peng**, and Wanzeng Kong. Adaptive EEG Frequency Filtering and Serial Spatio-Temporal Attention for Speech Decoding. _IEEE Signal Processing Letters_, accepted, 2026   
 [106] Yifu Chen, Yihao Wang, Pengxin Xu, and **Yong Peng**. Adaptive Feature-weighted Topological Manifold Graph Learning for Multi-view Data Clustering. _IEEE Signal Processing Letters_, accepted, 2026.   
 [105]	Yiyan Wang, Bin Yang, Zhaohu Liu, Junhua Li, and **Yong Peng**. Adaptive Feature-weighted Co-clustering with Local Coordinate Coding. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3709729, 2026.   
 [104] Yaolun Jin, Yinfeng Fang, **Yong Peng**, Congyi Zhang, Dalin Zhou, Zhaojie Ju. HGR-STAR: raw HD-sEMG gesture recognition via StarNet with HD-sEMG embedding and label smoothing. _IEEE Transactions on Human-Machine Systems_, DOI: 10.1109/THMS.2026.3703202, 2026.   
