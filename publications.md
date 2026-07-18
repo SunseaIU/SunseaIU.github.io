@@ -1,7 +1,7 @@
 **期刊论文列表**:   
 
 [109] Han Yang, Lingfei Zeng, Baoheng Wang, Risheng Huang, Shuhan Chen, and **Yong Peng**. Multimodal Remote Sensing Image Registration via Multi-scale Semantic Feature Enhancement and Bidirectional Deformation Constraints. _IEEE Geoscience and Remote Sensing Letters_, DOI: 10.1109/LGRS.2026.3713911, 2026.   
-[108] Han Yang, Baoheng Wang, Lu Zhang, Yuan Luo, Risheng Huang, **Yong Peng**, and Wanzeng Kong. Unsupervised Multimodal Remote Sensing Image Registration via Two-Stream Causal Sequential Inference. _Pattern Recognition_, accepted, 2026   
+[108] Han Yang, Baoheng Wang, Lu Zhang, Yuan Luo, Risheng Huang, **Yong Peng**, and Wanzeng Kong. Unsupervised Multimodal Remote Sensing Image Registration via Two-Stream Causal Sequential Inference. _Pattern Recognition_, DOI: 10.1016/j.patcog.2026.114471, 2026   
 [107]	Jiaman Li, Zhaohu Liu, Feng Gao, **Yong Peng**, and Wanzeng Kong. Adaptive EEG Frequency Filtering and Serial Spatio-Temporal Attention for Speech Decoding. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3714765, 2026   
 [106] Yifu Chen, Yihao Wang, Pengxin Xu, and **Yong Peng**. Adaptive Feature-weighted Topological Manifold Graph Learning for Multi-view Data Clustering. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3712287, 2026.   
 [105]	Yiyan Wang, Bin Yang, Zhaohu Liu, Junhua Li, and **Yong Peng**. Adaptive Feature-weighted Co-clustering with Local Coordinate Coding. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3709729, 2026.   
