@@ -1,5 +1,6 @@
 **期刊论文列表**:   
 
+[110] Luyun Wang, Li Huang, Weidong Chen and **Yong Peng**. Evo-TGSF: an evolutionary topology-genomic subspace fusion framework for Alzheimer’s disease classification using imaging-genomics data. _Journal of King Saud University Computer and Information Sciences_, DOI:10.1007/s44443-026-01094-7, 2026.   
 [109] Han Yang, Lingfei Zeng, Baoheng Wang, Risheng Huang, Shuhan Chen, and **Yong Peng**. Multimodal Remote Sensing Image Registration via Multi-scale Semantic Feature Enhancement and Bidirectional Deformation Constraints. _IEEE Geoscience and Remote Sensing Letters_, DOI: 10.1109/LGRS.2026.3713911, 2026.   
 [108] Han Yang, Baoheng Wang, Lu Zhang, Yuan Luo, Risheng Huang, **Yong Peng**, and Wanzeng Kong. Unsupervised Multimodal Remote Sensing Image Registration via Two-Stream Causal Sequential Inference. _Pattern Recognition_, DOI: 10.1016/j.patcog.2026.114471, 2026   
 [107]	Jiaman Li, Zhaohu Liu, Feng Gao, **Yong Peng**, and Wanzeng Kong. Adaptive EEG Frequency Filtering and Serial Spatio-Temporal Attention for Speech Decoding. _IEEE Signal Processing Letters_, DOI: 10.1109/LSP.2026.3714765, 2026   
