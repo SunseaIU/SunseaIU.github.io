@@ -1,5 +1,6 @@
 **代表性论文**:   
 
+[34] Zijian Han, Zhaohu Liu, Honggang liu, **Yong Peng**<sup>* </sup>, Li Zhu, Wanzeng Kong, and Andrzej Cichocki. Contrastive Decoupling and Enhancement of Multi-view EEG Features for Imagined Speech Decoding. _IEEE Transactions on Biomedical Engineering_, accepted, 2026.   
 [33] Yaolun Jin, Yinfeng Fang, **Yong Peng**, Congyi Zhang, Dalin Zhou, Zhaojie Ju<sup>* </sup>. HGR-STAR: raw HD-sEMG gesture recognition via StarNet with HD-sEMG embedding and label smoothing. _IEEE Transactions on Human-Machine Systems_, DOI: 10.1109/THMS.2026.3703202, 2026.   
 [32] Xinyu Cao, Feiwei Qin, Changmiao Wang, Jin Fan, Jing Chen, **Yong Peng**, Bao Peng, Wentai Lei, and Tao Zhang<sup>* </sup>. MIDNet: Multi-level Implicit Differential Network for Infrared Image Denoising. _IEEE Transactions on Multimedia_, accepted, 2026.     
 [31] Chi Huang, Zhaohu Liu, **Yong Peng**<sup>* </sup>, and Wanzeng Kong. HFFN-ID: A Hierarchical Feature Fusion Network with Bi-Phase Subject ID Modulation for EEG Mel-Spectrogram Reconstruction. _International Joint Conference on Artificial Intelligence_ (IJCAI), August 15-21, Bermen, Germany, 2026.   
