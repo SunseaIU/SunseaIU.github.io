@@ -114,6 +114,7 @@
 [1]	**Yong Peng**, Bao-Liang Lu. A hierarchical particle swarm optimizer with latin sampling based memetic algorithm for numerical optimization. _Applied Soft Computing_, 13(5): 2823--2836, 2013.
 
 **会议论文列表**：    
+[18]	Weihong Chen, Beining Wu, Qianhan Weng, Liaoman Xu, Feiwei Qin, Jin Fan, **Yong Peng**, Wanzhen Wu, and Yifei Chen. MAG-ADNet: A Modality-Adversarial Gated Network for Alzheimer’s Disease Diagnosis. _IEEE International Conference on Bioinformatics and Biomedicine_ (BIBM), December 1-4, Dallas, USA, 2026.   
 [17] Chi Huang, Zhaohu Liu, **Yong Peng**, and Wanzeng Kong. HFFN-ID: A Hierarchical Feature Fusion Network with Bi-Phase Subject ID Modulation for EEG Mel-Spectrogram Reconstruction. _International Joint Conference on Artificial Intelligence_ (IJCAI), August 15-21, Bremen, Germany, 2026.   
 [16]	Junhao Jia, Yunyou Liu, Yifei Sun, Huangwei Chen, Feiwei Qin, Changmiao Wang, **Yong Peng**. Geodesic prototype matching via diffusion maps for interpretable fine-grained recognition.  _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), 4-8 May, Barcelona, Spain, 2026.   
 [15]	Junhao Jia, Yunyou Liu, Cheng Yang, Yifei Sun, Feiwei Qin, Changmiao Wang, **Yong Peng**. Brian-HGCN: a hyperbolic graph convolutional network for brain functional network analysis. _IEEE International Conference on Acoustics, Speech and Signal Processing_ (ICASSP), 4-8 May, Barcelona, Spain, 2026.   
