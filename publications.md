@@ -1,5 +1,6 @@
 **期刊论文列表**:   
 
+[113] Xiaoxiao Gong, Hanbing Yang, **Yong Peng**, Jinglong Fang, Wanzeng Kong, and Andrzej Cichocki. CoDrag: Coupled Label and Feature Prototype Dragging via Confidence-Aware Estimation for EEG-based Emotion Decoding. _IEEE Journal of Biomedical and Health Informatics_, accepted, 2026.
 [112] Zijian Han, Zhaohu Liu, Honggang liu, **Yong Peng**, Li Zhu, Wanzeng Kong, and Andrzej Cichocki. Contrastive Decoupling and Enhancement of Multi-view EEG Features for Imagined Speech Decoding. _IEEE Transactions on Biomedical Engineering_, DOI: 10.1109/TBME.2026.3729643, 2026.   
 [111] Kun Yang, Yubin Hu, Renjian Zheng, Jing Xu, Ning Wang, Jianhai Zhang, **Yong Peng**, and Wanzeng Kong. Multi-branch heterogeneous network of exploiting complementary multi-view features for decoding finger motor imagery EEG. _Computer Methods in Biomechanics and Biomedical Engineering_, DOI: 10.1080/10255842.2026.2726433, 2026.   
 [110] Luyun Wang, Li Huang, Weidong Chen and **Yong Peng**. Evo-TGSF: an evolutionary topology-genomic subspace fusion framework for Alzheimer’s disease classification using imaging-genomics data. _Journal of King Saud University Computer and Information Sciences_, DOI:10.1007/s44443-026-01094-7, 2026.   
