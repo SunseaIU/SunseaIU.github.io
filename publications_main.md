@@ -1,6 +1,6 @@
 **代表性论文**:   
 
-[35] Xiaoxiao Gong, Hanbing Yang, **Yong Peng**<sup>* </sup>, Jinglong Fang, Wanzeng Kong, and Andrzej Cichocki. CoDrag: Coupled Label and Feature Prototype Dragging via Confidence-Aware Estimation for EEG-based Emotion Decoding. _IEEE Journal of Biomedical and Health Informatics_, accepted, 2026.   
+[35] Xiaoxiao Gong, Hanbing Yang, **Yong Peng**<sup>* </sup>, Jinglong Fang, Wanzeng Kong, and Andrzej Cichocki. CoDrag: Coupled Label and Feature Prototype Dragging via Confidence-Aware Estimation for EEG-based Emotion Decoding. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2026.3738945, 2026.   
 [34] Zijian Han, Zhaohu Liu, Honggang liu, **Yong Peng**<sup>* </sup>, Li Zhu, Wanzeng Kong, and Andrzej Cichocki. Contrastive Decoupling and Enhancement of Multi-view EEG Features for Imagined Speech Decoding. _IEEE Transactions on Biomedical Engineering_, DOI: 10.1109/TBME.2026.3729643, 2026.   
 [33] Yaolun Jin, Yinfeng Fang, **Yong Peng**, Congyi Zhang, Dalin Zhou, Zhaojie Ju<sup>* </sup>. HGR-STAR: raw HD-sEMG gesture recognition via StarNet with HD-sEMG embedding and label smoothing. _IEEE Transactions on Human-Machine Systems_, DOI: 10.1109/THMS.2026.3703202, 2026.   
 [32] Xinyu Cao, Feiwei Qin, Changmiao Wang, Jin Fan, Jing Chen, **Yong Peng**, Bao Peng, Wentai Lei, and Tao Zhang<sup>* </sup>. MIDNet: Multi-level Implicit Differential Network for Infrared Image Denoising. _IEEE Transactions on Multimedia_, DOI: 10.1109/TMM.2026.3726281, 2026.     
