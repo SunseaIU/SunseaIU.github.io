@@ -1,6 +1,6 @@
 **期刊论文列表**:   
 
-[115]	Fangyao Shen, Zihan Yang, Luyun Wang, Yong Peng and Wanzeng Kong. TFF-RCA: A Self-Supervised Representation Model for EEG Emotion Recognition Based on Adaptive Temporal Feature Fusion and Region-aware Channel Aggregation. Journal of King Saud University Computer and Information Sciences, accepted, 2026.   
+[115]	Fangyao Shen, Zihan Yang, Luyun Wang, Yong Peng and Wanzeng Kong. TFF-RCA: A Self-Supervised Representation Model for EEG Emotion Recognition Based on Adaptive Temporal Feature Fusion and Region-aware Channel Aggregation. _Journal of King Saud University-Computer and Information Sciences_, accepted, 2026.   
 [114]	Yuhang Ming, Tingkang Xi, Xingrui Yang, Lixin Yang, **Yong Peng**, Cewu Lu, Wanzeng Kong. VFM-Recon: Unlocking Cross-Domain Scene-Level Neural Reconstruction with Scale-Aligned Foundation Priors. _IEEE Robotics and Automation Letters_, accepted, 2026.   
 [113] Xiaoxiao Gong, Hanbing Yang, **Yong Peng**, Jinglong Fang, Wanzeng Kong, and Andrzej Cichocki. CoDrag: Coupled Label and Feature Prototype Dragging via Confidence-Aware Estimation for EEG-based Emotion Decoding. _IEEE Journal of Biomedical and Health Informatics_, DOI: 10.1109/JBHI.2026.3738945, 2026.   
 [112] Zijian Han, Zhaohu Liu, Honggang liu, **Yong Peng**, Li Zhu, Wanzeng Kong, and Andrzej Cichocki. Contrastive Decoupling and Enhancement of Multi-view EEG Features for Imagined Speech Decoding. _IEEE Transactions on Biomedical Engineering_, DOI: 10.1109/TBME.2026.3729643, 2026.   
